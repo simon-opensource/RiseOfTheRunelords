@@ -92,35 +92,7 @@ The hoard of the white dragon Arkrhyst is an enormous pile of coins, art objects
 
 ### Level 13 Budget Reconciliation
 
-**Permanent Items (5 needed: 14th x2, 13th x3):**
-| Slot | Item | Level | Value | Best for |
-|------|------|-------|-------|----------|
-| 14th #1 | Fanged Falchion | 14 | 4,500gp | sell or party use |
-| 14th #2 | Wand of Crackling Lightning (3rd-rank) | 14 | 4,500gp | Ka'ata / Squeaks |
-| 13th #1 | Wand of Shardstorm (3rd-rank) | 13 | 3,000gp | Squeaks |
-| 13th #2 | +2 greater striking runestone | 12 | 2,000gp | **Grimace (Dorn-Dergar)** |
-| 13th #3 | +2 resilient breastplate (Scribbler's) | 11 | 1,400gp | sell/transfer rune |
-
-Permanent total: ~15,400gp
-
-**Consumables (8 needed: 14th x3, 13th x3, 12th x2):**
-| Slot | Item | Level | Value |
-|------|------|-------|-------|
-| 14th #1 | Healing Potion (Greater) | 12 | 400gp |
-| 14th #2 | Healing Potion (Greater) | 12 | 400gp |
-| 14th #3 | Scroll of Dispelling Globe (rank 6) | 11 | 300gp |
-| 13th #1 | Scroll of Heal (rank 6) | 11 | 300gp |
-| 13th #2 | Potion of Resistance (cold) | 12 | 350gp |
-| 13th #3 | Potion of Resistance (cold) | 12 | 350gp |
-| 12th #1 | Blasting Stone (Moderate) | 11 | 100gp |
-| 12th #2 | Blasting Stone (Moderate) | 11 | 100gp |
-
-Consumable total: ~2,300gp
-
-**Currency & Below-Level Items:** ~11,100gp
-(coins 730 + art 1,500 + ravens art 240 + cold iron dagger 200 + Scribbler breastplate 700 + diamond dust 75 + ink 5 + holy water 18 + torches 90 + bane ammo 250 + scrolls 315 + healing potions 900 + resistance potions 350 + chime 120 + duskwood shield 220 + wand heal 250 + wolf full plate 700 + flaming longsword 300 + adamantine warhammer 750 + dawnsilver shirts 1,600 + cloak bat 450 + charm resistance cold 500 + moderate healing 100)
-
-**Level 13 Grand Total: ~26,500gp** (on budget)
+See `budget.py` for detailed breakdown with item-level slot checks.
 
 ---
 
@@ -372,35 +344,7 @@ Consumable total: ~2,300gp
 
 ### Level 14 Budget Reconciliation
 
-**Permanent Items:**
-| Item | Level | Value |
-|------|-------|-------|
-| Robe of the Archmagi (black) | 15 | 6,500gp |
-| Rod of Negation | 14 | 4,300gp |
-| Staff of Hungry Shadows | 14 | 4,500gp |
-| Staff of Mithral Might | 14 | 4,500gp |
-| Sadist's Lash | 14 | 4,500gp |
-| +2 GS keen wounding dagger (Xyoddin) | 14 | 4,500gp |
-| +2 resilient glamered dawnsilver chain shirt | 14 | 3,140gp |
-| Golem Stylus | 13 | 3,000gp |
-
-Permanent total: ~35,940gp
-
-**Consumables:**
-| Item | Level | Value |
-|------|-------|-------|
-| Scroll of Interplanar Teleport rank 7 x2 | 13 | 1,200gp |
-| Potion of Quickness | 14 | 900gp |
-| Healing Potion (Greater) x3 | 12 | 1,200gp |
-| Scroll of Teleport rank 6 | 11 | 300gp |
-| Scroll of Stone to Flesh rank 6 | 11 | 300gp |
-
-Consumable total: ~3,900gp
-
-**Currency & Below-Level Items:** ~16,165gp
-(see budget.py for full breakdown)
-
-**Level 14 Grand Total: ~55,005gp** (target: 38,750gp — intentionally over budget)
+See `budget.py` for detailed breakdown with item-level slot checks.
 
 *Note: Runeforge is a megadungeon with 7 wings, each led by a boss carrying signature gear. The treasure-by-level guidelines assume a linear adventure; a dungeon where the party explores all wings will naturally exceed the budget. GMs can control pacing by having the party sell/store excess gear between wings, or by making some wings optional. The extra permanent items also provide meaningful choices — the party can't use all of them and will sell many.*
 
@@ -479,37 +423,13 @@ Consumable total: ~3,900gp
 
 ### Level 15.5 Budget Reconciliation
 
-**Permanent Items (3 needed: 16th x1, 15th x2):**
-| Slot | Item | Level | Value |
-|------|------|-------|-------|
-| 16th #1 | +3 greater striking flaming adamantine ranseur | 16 | 11,900gp |
-| 15th #1 | +2 greater resilient dawnsilver breastplate | 15 | 6,100gp |
-| 15th #2 | Wand of Crackling Lightning (5th-rank) | 14 | 4,500gp |
-
-Permanent total: ~22,500gp
-
-**Consumables (4 needed: 16th x1, 15th x2, 14th x1):**
-| Slot | Item | Level | Value |
-|------|------|-------|-------|
-| 16th #1 | Ring of Wizardry (Type IV) | 14 | 4,000gp |
-| 15th #1 | Scroll of Howling Blizzard (rank 7) | 13 | 720gp |
-| 15th #2 | Elemental Gem (fire) | 10 | 200gp |
-| 14th #1 | (absorbed into currency) | — | — |
-
-Consumable total: ~4,920gp
-
-**Currency & Below-Level Items:** ~6,155gp
-(Golem eye gem 250 + elemental gem 100 + bulk K3 equipment 2,000 + bulk K4 equipment 1,500 + K5 weapons 300 + spell component pouch 5 + assorted below-level overflow ~2,000)
-
-**Level 15.5 Grand Total: ~31,475gp** (target: 28,875gp — +9%, consistent with overall megadungeon overage)
+See `budget.py` for detailed breakdown with item-level slot checks.
 
 ---
 
 ## Grand Total Summary
 
-| Level | Target | Allocated | Difference |
-|-------|--------|-----------|------------|
-Run `budget.py` for detailed breakdown with slot checks. Runeforge is a megadungeon with 7 boss encounters each carrying signature permanent items — the treasure-by-level budget is intentionally exceeded, as the party won't use all items and will sell excess.
+Run `budget.py` for detailed totals with item-level slot checks. Runeforge is a megadungeon with 7 boss encounters each carrying signature permanent items — the treasure-by-level budget is intentionally exceeded, as the party won't use all items and will sell excess.
 
 ---
 

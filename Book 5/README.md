@@ -104,7 +104,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
    - Disjunction pulse hazard: Disable Thievery DC 33 (master). The Rod's Counteract Check for the [Disjunction](https://2e.aonprd.com/Spells.aspx?ID=77) effect is DC28.
    - [Fiendish Mustard Jelly PDF](./Statblocks/fiendish_mustard_jelly-1608758632.pdf) by @Primemakes.
    - [Fiendish Mustard Jelly PNG](./Statblocks/fiendish_mustard_jelly-1608758629.png)
- - **Loot (E3):** 12 flasks of ethillion (alchemical reagent, 250gp each = 3,000gp)
+ - **Loot (E3):** 12 flasks of ethillion (alchemical reagent, 150gp each = 1,800gp)
  - **Loot (E4, hidden panel DC 30):** 3x [Healing Potion (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=2943) (L12), 1x [Antiplague (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2920) (L14)
 
 ## Part 4: The Ravenous Crypts (Party Level 14/15, 370/220xp)
@@ -119,7 +119,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
 
 ### F3 The crypt of Lord Mankray (20/10xp, trivial threat)
   - Elite [Clay Golem](https://2e.aonprd.com/Monsters.aspx?ID=240)
-  - **Loot:** Gold leaf scrapings (80gp), 2 star sapphires (100gp each), 12 amethyst grapes (30gp each), 68 bottles of Thassilonian wine (10gp each, also usable as runeforge component)
+  - **Loot:** Gold leaf scrapings (80gp), 2 star sapphires (100gp each), 12 amethyst grapes (30gp each), 68 bottles of Thassilonian wine (8gp each, also usable as runeforge component)
 
 ### F4 Infusion Chamber (70/50xp, low threat)
   - [Nightwing PDF](./Statblocks/nightwing-1608758979.pdf)  by @Primemakes.
@@ -145,12 +145,12 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
   - ![Azaven PNG](./Statblocks/azaven-1608759100.png)
   - [Staff of Hungry Shadows PDF](./Statblocks/staff_of_hungry_shadows-1608759177.pdf) by @Primemakes.
   - ![Staff of Hungry Shadows PNG](./Statblocks/staff_of_hungry_shadows-1608759174.png)
-  - **Loot:** [Staff of Hungry Shadows](./Statblocks/staff_of_hungry_shadows-1608759177.pdf) (L14), [Charm of Resistance (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=3065) (L10), [Cloak of the Bat](https://2e.aonprd.com/Equipment.aspx?ID=425) (L10), contingency statuette (200gp), surgical equipment (120gp)
+  - **Loot:** [Staff of Hungry Shadows](./Statblocks/staff_of_hungry_shadows-1608759177.pdf) (L14), 2x [Potion of Resistance (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=1607) (L14), [Cloak of the Bat](https://2e.aonprd.com/Equipment.aspx?ID=425) (L10), contingency statuette (200gp), surgical equipment (120gp)
 
 ### F11 Azaven's Phylactery (30/20xp, trivial threat)
   - Necromantic Deathtrap
   - ![Necromantic Deathtrap PNG](./Statblocks/NecromanticDeathtrap.png)
-  - **Loot:** Mixed jewels/gems (700gp), [Golem Stylus](https://2e.aonprd.com/Equipment.aspx?ID=1060) (L13), [Octopus Bottle](https://2e.aonprd.com/Equipment.aspx?ID=1952) (L8), Azaven's spellbooks (10 tomes — see [loot.md](./Reference/loot.md) for spell lists)
+  - **Loot:** Mixed jewels/gems (400gp), [Golem Stylus](https://2e.aonprd.com/Equipment.aspx?ID=1060) (L13), [Octopus Bottle](https://2e.aonprd.com/Equipment.aspx?ID=1952) (L8), Azaven's spellbooks (10 tomes — see [loot.md](./Reference/loot.md) for spell lists)
    
 
 ## Part 5: The Vault of Greed (Party Level 14/15, 240/190 xp)
@@ -188,10 +188,10 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
 ### H1 Cathedral (40/20xp, trivial threat)
   - [ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PDF](./Statblocks/alu_demon_submissive-1608760344.pdf) by @Primemakes.
   - ![ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PNG](./Statblocks/alu_demon_submissive-1608760342.png)
-  - **Loot:** 4x masterwork ranseur (40gp), 4x assorted jewelry (800gp each = 3,200gp)
+  - **Loot:** 4x masterwork ranseur (40gp), 4x assorted jewelry (600gp each = 2,400gp)
 
 ### H2 Empty Displays
-  - **Loot:** 13 silver and gold cages decorated with golden birds and flowers (100gp each = 1,300gp)
+  - **Loot:** 13 silver and gold cages decorated with golden birds and flowers (75gp each = 975gp)
 
 ### H3 (RP encounter)
   - Nelevetu Voan - if stats are needed then use an unequipped [Captain of the Guard](https://2e.aonprd.com/NPCs.aspx?ID=937)
@@ -203,14 +203,14 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
   - [Delvahine PDF](./Statblocks/delvahine-1608760521.pdf) by @Primemakes.
   - ![Delvahine PNG](./Statblocks/delvahine-1608760519.png)
   - Idea for Sadist's Lash by @Primemakes: +2 wounding whip. 15 feet reach **Activate**: Increase the casting time of an enchantment spell (with range touch) by one action: Strike with the lash, delivering the spell on a successful hit. On a critical success the target is stupified 1.
-  - **Loot:** [Sadist's Lash](./Statblocks/delvahine-1608760521.pdf) (L14, +2 wounding whip), +1 striking dagger, +2 resilient [glamered](https://2e.aonprd.com/Equipment.aspx?ID=289) dawnsilver chain shirt (L14), [Spacious Pouch Type II](https://2e.aonprd.com/Equipment.aspx?ID=3032). Hidden under bed: 4x [Healing Potion (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=2943), potions of [Cleanse Affliction](https://2e.aonprd.com/Spells.aspx?ID=1467) and [Sure Footing](https://2e.aonprd.com/Spells.aspx?ID=1708)
+  - **Loot:** [Sadist's Lash](./Statblocks/delvahine-1608760521.pdf) (L14, +2 wounding whip), +1 striking dagger, +2 resilient [glamered](https://2e.aonprd.com/Equipment.aspx?ID=289) dawnsilver chain shirt (L14), [Spacious Pouch Type II](https://2e.aonprd.com/Equipment.aspx?ID=3032). Hidden under bed: [Antidote (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2919) (L14), 4x [Healing Potion (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=2943), potions of [Cleanse Affliction](https://2e.aonprd.com/Spells.aspx?ID=1467) and [Sure Footing](https://2e.aonprd.com/Spells.aspx?ID=1708)
 
 ### H (60/40xp, low/trivial threat)
   - 2 (Level 13) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shining Children](https://2e.aonprd.com/Monsters.aspx?ID=367)
   - Note the incapacitation effect will be one step reduced.
 
 ### H8 Boudoir
-  - **Loot:** Exotic bejeweled art objects (240gp)
+  - **Loot:** Exotic bejeweled art objects (150gp)
 
 ## Part 7: The Shimmering Veils (Party Level 14/15, 220/180 xp)
 
@@ -225,7 +225,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
   - **Loot:** Golden peacock (80gp), 6x daggers, 6x noble's outfits (60gp), simulacra spellbooks (see [loot.md](./Reference/loot.md))
 
 ### I3 Meditation Room
-  - **Loot:** Thassilonian books on illusion (150gp), [Robe of the Archmagi](https://2e.aonprd.com/Equipment.aspx?ID=464) (black, L15, 6,500gp — on Vraxeris's body), [Ring of Wizardry Type III](https://2e.aonprd.com/Equipment.aspx?ID=462) (L12), [Charlatan's Cape](https://2e.aonprd.com/Equipment.aspx?ID=3063) (L10), Vraxeris's spellbooks (12 tomes — see [loot.md](./Reference/loot.md)), Vraxeris's journal (quest item)
+  - **Loot:** Thassilonian books on illusion (150gp), [Robe of the Archmagi](https://2e.aonprd.com/Equipment.aspx?ID=464) (black, L15, 6,500gp — on Vraxeris's body), [Ring of Wizardry Type III](https://2e.aonprd.com/Equipment.aspx?ID=462) (L12), [Charlatan's Cape](https://2e.aonprd.com/Equipment.aspx?ID=3063) (L10), [Potion of Flying (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=1596) (L15), Vraxeris's spellbooks (12 tomes — see [loot.md](./Reference/loot.md)), Vraxeris's journal (quest item)
 
 ### I4 Library
   - **Loot:** [Hat of Disguise (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=442) (L7), Thassilonian books (150gp)
@@ -260,14 +260,14 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
   - [Jordimandus PDF](./Statblocks/jordimandus-1608761094.pdf) by @Primemakes.
   - ![Jordimandus PNG](./Statblocks/jordimandus-1608761092.png)
   - Replace Variant Ochre Jellies with 1 [Tallow Ooze](https://2e.aonprd.com/Monsters.aspx?ID=533) per PC
-  - **Loot:** [Rod of Negation](https://2e.aonprd.com/Equipment.aspx?ID=264) (L14), [Spacious Pouch Type II](https://2e.aonprd.com/Equipment.aspx?ID=3032), 155gp in valuables. **Hidden drawer (DC 30):** 2x [Immovable Rod](https://2e.aonprd.com/Equipment.aspx?ID=259) (L9), scrolls of [Teleport](https://2e.aonprd.com/Spells.aspx?ID=1720) and [Stone to Flesh](https://2e.aonprd.com/Spells.aspx?ID=311), Jordimandus's spellbooks (13 tomes — see [loot.md](./Reference/loot.md))
+  - **Loot:** [Rod of Negation](https://2e.aonprd.com/Equipment.aspx?ID=264) (L14), [Spacious Pouch Type II](https://2e.aonprd.com/Equipment.aspx?ID=3032), 155gp in valuables. **Hidden drawer (DC 30):** 2x [Immovable Rod](https://2e.aonprd.com/Equipment.aspx?ID=259) (L9), [Scroll of Teleport rank 8](https://2e.aonprd.com/Equipment.aspx?ID=2962) (L15), [Elixir of Life (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2925) (L15), Jordimandus's spellbooks (13 tomes — see [loot.md](./Reference/loot.md))
  
 
  ## Part 9: The Halls of Wrath (Party Level 14/15, 290/200 xp)
  
  ### K1 Iron Guardian (30/20xp, trivial threat)
   - [Iron Archer](https://2e.aonprd.com/Monsters.aspx?ID=242) with a longbow (use melee stats for to hit, wrath arrows)
-  - **Loot:** Golem eye gemstone (250gp), [Elemental Gem](https://2e.aonprd.com/Equipment.aspx?ID=243) (fire, L10)
+  - **Loot:** Golem eye gemstone (250gp), [Truesight Potion](https://2e.aonprd.com/Equipment.aspx?ID=1604) (L16, distilled from the golem's crystal eye)
 
 ### K3 Barracks (90/60xp, moderate/low threat)
   - The total number of warriors and axemen should equal 50% more than the number of PCs. For a party of 4 that means 6 in total split however you wish.
@@ -276,7 +276,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
 
   - [Sinspawn Axemen PDF](./Statblocks/sinspawn_axemen-1608761416.pdf) by @Primemakes.
   - ![Sinspawn Axemen PNG](./Statblocks/sinspawn_axemen-1608761414.png)
-  - **Loot:** Bulk Thassilonian military equipment: +1 striking greatswords, +1 resilient dawnsilver chain shirts (warriors), +1 striking greataxes, +1 resilient breastplates (sinspawn), warrior spellbooks. See [loot.md](./Reference/loot.md) for values.
+  - **Loot:** Bulk Thassilonian military equipment: +1 striking greatswords, +1 resilient dawnsilver chain shirts (warriors), +1 striking greataxes, +1 resilient breastplates (sinspawn), warrior spellbooks, [Potion of Resistance (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=1607) (L14). See [loot.md](./Reference/loot.md) for values.
 
 ### K4 Lab (60/40xp, low/trivial threat)
   - There is one warrior per PC.
@@ -291,7 +291,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
   - [Highlady Athroxis PDF](./Statblocks/highlady_athroxis-1608761466.pdf) (60/80xp) by @Primemakes.
   - ![Highlady Athroxis PNG](./Statblocks/highlady_athroxis-1608761464.png)
   - [Glabrezu](https://2e.aonprd.com/Monsters.aspx?ID=101) (20/30xp)
-  - **Loot:** +3 greater striking [flaming](https://2e.aonprd.com/Equipment.aspx?ID=2838) adamantine ranseur (L16), +2 greater resilient dawnsilver breastplate (L15), [Wand of Crackling Lightning](https://2e.aonprd.com/Equipment.aspx?ID=3424) 5th-rank (L14), [Ring of Wizardry Type IV](https://2e.aonprd.com/Equipment.aspx?ID=462) (L14), Scroll of [Howling Blizzard](https://2e.aonprd.com/Spells.aspx?ID=1559) rank 7 (L13), Athroxis's spellbooks (3 tomes — see [loot.md](./Reference/loot.md))
+  - **Loot:** +3 greater striking [flaming](https://2e.aonprd.com/Equipment.aspx?ID=2838) adamantine ranseur (L16), +2 greater resilient dawnsilver breastplate (L15), [Wand of Crackling Lightning](https://2e.aonprd.com/Equipment.aspx?ID=3424) 5th-rank (L14), [Ring of Wizardry Type IV](https://2e.aonprd.com/Equipment.aspx?ID=462) (L14), [Scroll of Howling Blizzard rank 8](https://2e.aonprd.com/Equipment.aspx?ID=2962) (L15), [Elixir of Life (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2925) (L15), Athroxis's spellbooks (3 tomes — see [loot.md](./Reference/loot.md))
 
 
  ## Part 10: Weapons of Power (Party Level 14/15, 80/60 xp)
