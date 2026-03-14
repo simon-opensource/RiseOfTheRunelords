@@ -134,7 +134,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
 ### F7 Laboratory (30/20xp, trivial threat))
   - [Xyoddin Xerriock PDF](./Statblocks/xyoddin_xerriock-1608759484.pdf) by @Primemakes.
   - ![Xyoddin Xerriock PNG](./Statblocks/xyoddin_xerriock-1608759025.png)
-  - **Loot:** +1 striking human bane dagger, +2 resilient chain shirt, 10 lenses and magnifiers (100gp), 15gp, necromancy research books (1,000gp, +2 circ Arcana/Religion vs necromancy)
+  - **Loot:** +2 greater striking keen wounding dagger (L14), +2 resilient chain shirt, 10 lenses and magnifiers (100gp), 15gp, necromancy research books (750gp, +2 circ Arcana/Religion vs necromancy)
 
 ### F8 Crypt Guardians (60/30xp, low/trivial threat)
   - 6x [Elite Thassilonian Mummy PDF](./Statblocks/thassilonian_mummy-1608758808.pdf)  by @Primemakes.
@@ -260,7 +260,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
   - [Jordimandus PDF](./Statblocks/jordimandus-1608761094.pdf) by @Primemakes.
   - ![Jordimandus PNG](./Statblocks/jordimandus-1608761092.png)
   - Replace Variant Ochre Jellies with 1 [Tallow Ooze](https://2e.aonprd.com/Monsters.aspx?ID=533) per PC
-  - **Loot:** [Rod of Negation](https://2e.aonprd.com/Equipment.aspx?ID=264) (L14), [Spacious Pouch Type II](https://2e.aonprd.com/Equipment.aspx?ID=3032), 155gp in valuables. **Hidden drawer (DC 30):** 2x [Immovable Rod](https://2e.aonprd.com/Equipment.aspx?ID=259) (L9), [Winged Boots](https://2e.aonprd.com/Equipment.aspx?ID=470) (L13), scrolls of [Teleport](https://2e.aonprd.com/Spells.aspx?ID=1720) and [Stone to Flesh](https://2e.aonprd.com/Spells.aspx?ID=311), Jordimandus's spellbooks (13 tomes — see [loot.md](./Reference/loot.md))
+  - **Loot:** [Rod of Negation](https://2e.aonprd.com/Equipment.aspx?ID=264) (L14), [Spacious Pouch Type II](https://2e.aonprd.com/Equipment.aspx?ID=3032), 155gp in valuables. **Hidden drawer (DC 30):** 2x [Immovable Rod](https://2e.aonprd.com/Equipment.aspx?ID=259) (L9), scrolls of [Teleport](https://2e.aonprd.com/Spells.aspx?ID=1720) and [Stone to Flesh](https://2e.aonprd.com/Spells.aspx?ID=311), Jordimandus's spellbooks (13 tomes — see [loot.md](./Reference/loot.md))
  
 
  ## Part 9: The Halls of Wrath (Party Level 14/15, 290/200 xp)

@@ -127,7 +127,7 @@ Consumable total: ~2,300gp
 
 - **Creatures:** None (guarded by disjunction pulse hazard)
 - **Loot:**
-  - 12 flasks of ethillion — alchemical reagent unique to Runeforge. Worth 200gp each in trade (1e: 2,500gp / 10, adjusted for budget) = **2,400gp** total. Treat as **currency**.
+  - 12 flasks of ethillion — alchemical reagent unique to Runeforge. Worth 150gp each in trade (1e: 2,500gp / 10, adjusted for budget) = **1,800gp** total. Treat as **currency**.
   - *Ethillion is a rare abjuration-infused alchemical fluid. It can be used as a material component to enhance abjuration spells or as a specialty crafting reagent.*
 
 ### E4 Befouled Chamber
@@ -148,7 +148,7 @@ Consumable total: ~2,300gp
   - Gold leaf scrapings — 80gp (1e: 800gp / 10)
   - 2 star sapphire eyes — 100gp each = 200gp
   - 12 amethyst grapes — 30gp each = 360gp
-  - 68 bottles of fine wine — 10gp each = 680gp
+  - 68 bottles of fine wine — 8gp each = 545gp
   - Total art/valuables: **1,320gp**
 
 ### F4 Infusion Chamber
@@ -168,7 +168,7 @@ Consumable total: ~2,300gp
 
 - **Creatures:** Xyoddin Xerriock
 - **Loot:**
-  - +1 striking [human bane](https://2e.aonprd.com/Equipment.aspx?ID=3066) dagger — Level 4 weapon + bane customization. Count as currency: **200gp**
+  - +2 greater striking keen wounding dagger — **Level 14** permanent item, 4,500gp
   - +2 resilient chain shirt — Level 11, 1,400gp. Count as currency: **700gp**
   - 10 lenses and magnifiers — 10gp each = 100gp
   - 15gp loose coins (1e: 146gp / 10)
@@ -188,7 +188,7 @@ Consumable total: ~2,300gp
 
 - **Creatures:** Necromantic Deathtrap (hazard)
 - **Loot:**
-  - Mixed jewels, gems, and fine linens — 700gp (1e: 7,000gp / 10)
+  - Mixed jewels, gems, and fine linens — 400gp (1e: 7,000gp, adjusted)
   - [Octopus Bottle](https://2e.aonprd.com/Equipment.aspx?ID=1952) — replaces eversmoking bottle (produces ink-dark cloud). **Level 8**, 450gp. Count as currency: **225gp**
   - [Golem Stylus](https://2e.aonprd.com/Equipment.aspx?ID=1060) — replaces golembane scarab. **Level 13** permanent item, 3,000gp
   - **Azaven's Spellbooks** (10 tomes, does not count against budget):
@@ -276,7 +276,7 @@ Consumable total: ~2,300gp
 
 - **Creatures:** None
 - **Loot:**
-  - Exotic bejeweled toys — 240gp (1e: 2,400gp / 10)
+  - Exotic bejeweled art objects — 150gp (1e: 2,400gp, adjusted)
 
 ---
 
@@ -318,13 +318,13 @@ Consumable total: ~2,300gp
 - **Loot:**
   - [Robe of the Archmagi](https://2e.aonprd.com/Equipment.aspx?ID=464) (black) — **Level 15** permanent item, 6,500gp
   - [Ring of Wizardry (Type III)](https://2e.aonprd.com/Equipment.aspx?ID=462) — replaces ring of wizardry II + headband of vast int +6 (apex items too high level; ring upgraded to Type III instead). **Level 12**, 2,000gp. Count as currency: **1,000gp**
-  - [Charlatan's Cape](https://2e.aonprd.com/Equipment.aspx?ID=3063) — replaces cape of the mountebank. **Level 10**, 980gp. Count as currency: **490gp**
+  - [Charlatan's Cape](https://2e.aonprd.com/Equipment.aspx?ID=3063) — replaces cape of the mountebank. **Level 10**, 980gp. Count as currency: **400gp**
 
 ### I4 Library
 
 - **Creatures:** None
 - **Loot:**
-  - [Hat of Disguise (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=442) — replaces tome of leadership +2 (stat tomes don't exist in 2e). **Level 7**, 340gp. Count as currency: **170gp**
+  - [Hat of Disguise (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=442) — replaces tome of leadership +2 (stat tomes don't exist in 2e). **Level 7**, 340gp. Count as currency: **100gp**
 
 ---
 
@@ -355,7 +355,7 @@ Consumable total: ~2,300gp
     - 2x [Immovable Rod](https://2e.aonprd.com/Equipment.aspx?ID=259) — **Level 9**, 600gp each = 1,200gp. Count as currency: **600gp**
     - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Teleport](https://2e.aonprd.com/Spells.aspx?ID=1720) (rank 6) — **Level 11**, 300gp. Count as currency: **150gp**
     - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Stone to Flesh](https://2e.aonprd.com/Spells.aspx?ID=311) (rank 6) — **Level 11**, 300gp. Count as currency: **150gp**
-    - [Winged Boots](https://2e.aonprd.com/Equipment.aspx?ID=470) — replaces manual of gainful exercise +2 (stat tomes don't exist in 2e; thematic replacement for a conjurer who values mobility). **Level 13** permanent item, 3,000gp
+    - ~~Manual of gainful exercise +2~~ — stat tomes don't exist in 2e; no replacement
   - **Jordimandus's Spellbooks** (13 tomes, does not count against budget):
     - Cantrips: [Caustic Blast](https://2e.aonprd.com/Spells.aspx?ID=1461), [Telekinetic Hand](https://2e.aonprd.com/Spells.aspx?ID=1715), [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=1639), [Light](https://2e.aonprd.com/Spells.aspx?ID=1585), [Figment](https://2e.aonprd.com/Spells.aspx?ID=1528)
     - Rank 1: [Mystic Armor](https://2e.aonprd.com/Spells.aspx?ID=1611), [Summon Construct](https://2e.aonprd.com/Spells.aspx?ID=318), [Force Barrage](https://2e.aonprd.com/Spells.aspx?ID=1536), [Enfeeble](https://2e.aonprd.com/Spells.aspx?ID=1513)
@@ -368,65 +368,37 @@ Consumable total: ~2,300gp
 
 ### Level 14 Budget Reconciliation
 
-**Permanent Items (5 needed: 15th x2, 14th x3):**
-| Slot | Item | Level | Value |
-|------|------|-------|-------|
-| 15th #1 | Robe of the Archmagi (black) | 15 | 6,500gp |
-| 15th #2 | Rod of Negation | 14 | 4,300gp |
-| 14th #1 | Staff of Hungry Shadows | 14 | 4,500gp |
-| 14th #2 | Staff of Mithral Might | 14 | 4,500gp |
-| 14th #3 | Sadist's Lash | 14 | 4,500gp |
+**Permanent Items:**
+| Item | Level | Value |
+|------|-------|-------|
+| Robe of the Archmagi (black) | 15 | 6,500gp |
+| Rod of Negation | 14 | 4,300gp |
+| Staff of Hungry Shadows | 14 | 4,500gp |
+| Staff of Mithral Might | 14 | 4,500gp |
+| Sadist's Lash | 14 | 4,500gp |
+| +2 GS keen wounding dagger (Xyoddin) | 14 | 4,500gp |
+| +2 resilient glamered dawnsilver chain shirt | 14 | 3,140gp |
+| Golem Stylus | 13 | 3,000gp |
 
-Permanent total: ~24,300gp
-
-**Consumables (8 needed: 15th x3, 14th x3, 13th x2):**
-| Slot | Item | Level | Value |
-|------|------|-------|-------|
-| 15th #1 | Scroll of Interplanar Teleport (rank 7) | 13 | 720gp |
-| 15th #2 | Scroll of Interplanar Teleport (rank 7) | 13 | 720gp |
-| 15th #3 | Potion of Haste | 14 | 900gp |
-| 14th #1 | +2 resilient glamered dawnsilver chain shirt (consumable slot for below-level permanent) | — | — |
-| 14th #2 | Golem Stylus | 13 | 3,000gp |
-| 14th #3 | Winged Boots | 13 | 3,000gp |
-| 13th #1 | Healing Potion (Greater) x3 | 12 | 1,200gp |
-| 13th #2 | — | — | — |
-
-*Note: The glamered dawnsilver chain shirt (L14, 3,140gp), Golem Stylus (L13, 3,000gp), and Winged Boots (L13, 3,000gp) also serve as permanent item slots. Adjusted allocation:*
-
-**Revised Permanent Items:**
-| Slot | Item | Level | Value |
-|------|------|-------|-------|
-| 15th #1 | Robe of the Archmagi (black) | 15 | 6,500gp |
-| 15th #2 | Rod of Negation | 14 | 4,300gp |
-| 14th #1 | Staff of Hungry Shadows | 14 | 4,500gp |
-| 14th #2 | Staff of Mithral Might | 14 | 4,500gp |
-| 14th #3 | Sadist's Lash | 14 | 4,500gp |
-
-Extra permanent items (count at full value but exceed slot count — offset by fewer consumable slots):
-- +2 resilient glamered dawnsilver chain shirt | 14 | 3,140gp
-- Golem Stylus | 13 | 3,000gp
-- Winged Boots | 13 | 3,000gp
+Permanent total: ~35,940gp
 
 **Consumables:**
-| Slot | Item | Level | Value |
-|------|------|-------|-------|
-| 15th #1 | Scroll of Interplanar Teleport (rank 7) | 13 | 720gp |
-| 15th #2 | Scroll of Interplanar Teleport (rank 7) | 13 | 720gp |
-| 15th #3 | Potion of Haste | 14 | 900gp |
-| 14th #1 | Healing Potion (Greater) | 12 | 400gp |
-| 14th #2 | Healing Potion (Greater) | 12 | 400gp |
-| 14th #3 | Healing Potion (Greater) | 12 | 400gp |
-| 13th #1 | Scroll of Teleport (rank 6) | 11 | 300gp |
-| 13th #2 | Scroll of Stone to Flesh (rank 6) | 11 | 300gp |
+| Item | Level | Value |
+|------|-------|-------|
+| Scroll of Interplanar Teleport rank 7 x2 | 13 | 1,200gp |
+| Potion of Quickness | 14 | 900gp |
+| Healing Potion (Greater) x3 | 12 | 1,200gp |
+| Scroll of Teleport rank 6 | 11 | 300gp |
+| Scroll of Stone to Flesh rank 6 | 11 | 300gp |
 
-Consumable total: ~4,140gp
+Consumable total: ~3,900gp
 
-**Currency & Below-Level Items:** ~10,575gp
-(Ethillion 2,400 + necrology books F6 400 + healing potions 600 + crypt art 1,320 + bane dagger 200 + chain shirt 700 + lenses 100 + coins 15 + necromancy books F7 750 + charm resistance 500 + cloak bat 450 + statuette 200 + surgical 120 + gems/linens 700 + octopus bottle 225 + gems 50 + ring wizardry 360 + detect metal 65 + transmutation books G6 750 + diamond dust 50 + cathedral jewelry 2,400 + cages 975 + dagger 50 + spacious pouches 300 + moderate potions 100 + cleanse affliction 30 + sure footing 15 + boudoir 240 + peacock 80 + daggers 30 + outfits 60 + books 150 + ring wizardry III 1,000 + charlatan's cape 490 + hat disguise 170 + spacious pouch 150 + staff summoning 450 + diamond dust 50 + ivory 5 + mirror 100 + immovable rods 600 + scrolls 300)
+**Currency & Below-Level Items:** ~16,165gp
+(see budget.py for full breakdown)
 
-*Approximate currency subtotal: ~10,575gp* (target: 11,250gp — within 6%)
+**Level 14 Grand Total: ~55,005gp** (target: 38,750gp — intentionally over budget)
 
-**Level 14 Grand Total: ~39,015gp** (target: 38,750gp — within 1%)
+*Note: Runeforge is a megadungeon with 7 wings, each led by a boss carrying signature gear. The treasure-by-level guidelines assume a linear adventure; a dungeon where the party explores all wings will naturally exceed the budget. GMs can control pacing by having the party sell/store excess gear between wings, or by making some wings optional. The extra permanent items also provide meaningful choices — the party can't use all of them and will sell many.*
 
 ---
 
@@ -522,11 +494,7 @@ Consumable total: ~4,920gp
 **Currency & Below-Level Items:** ~6,155gp
 (Golem eye gem 250 + elemental gem 100 + bulk K3 equipment 2,000 + bulk K4 equipment 1,500 + K5 weapons 300 + spell component pouch 5 + assorted below-level overflow ~2,000)
 
-*Approximate currency subtotal: ~6,155gp* (target: 8,125gp)
-
-*Note: The Level 15.5 budget runs slightly under on currency but over on permanent items (the ranseur alone is worth 11,900gp against a 16th-level slot). The party is heading into Book 6 well-equipped. GMs can add ~2,000gp in additional coin to K6 (Athroxis's war chest) if desired to hit the currency target exactly.*
-
-**Level 15.5 Grand Total: ~28,575gp** (target: 28,875gp — within 1%)
+**Level 15.5 Grand Total: ~31,475gp** (target: 28,875gp — +9%, consistent with overall megadungeon overage)
 
 ---
 
@@ -534,10 +502,12 @@ Consumable total: ~4,920gp
 
 | Level | Target | Allocated | Difference |
 |-------|--------|-----------|------------|
-| 13 | 26,500gp | ~26,500gp | on budget |
-| 14 | 38,750gp | ~39,015gp | +0.7% |
-| 15.5 | 28,875gp | ~28,575gp | -1.0% |
-| **Total** | **94,125gp** | **~94,090gp** | **-0.04%** |
+| 13 | 26,500gp | ~26,888gp | +1.5% |
+| 14 | 38,750gp | ~55,005gp | +42% (see note) |
+| 15.5 | 28,875gp | ~31,475gp | +9% |
+| **Total** | **94,125gp** | **~113,368gp** | **+20%** |
+
+*Level 14 intentionally exceeds budget: Runeforge is a megadungeon with 7 boss encounters each carrying signature permanent items. The party won't use all of them — excess will be sold or stored. See budget.py for detailed breakdown.*
 
 ---
 
