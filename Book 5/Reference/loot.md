@@ -58,17 +58,20 @@ The hoard of the white dragon Arkrhyst is an enormous pile of coins, art objects
   - Tapestries, antique furniture, jewelry, silverware — **1,500gp**
 
 **Consumables:**
-  - 6x [Blasting Stone (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=3288) — **Level 11**, 100gp each = 600gp. Use 2 as **L12 consumables**, 4 count toward currency at 50gp each = 200gp
+  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Dispelling Globe](https://2e.aonprd.com/Spells.aspx?ID=1494) (rank 7) — **Level 13** consumable, 600gp
+  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Heal](https://2e.aonprd.com/Spells.aspx?ID=1547) (rank 7) — **Level 13** consumable, 600gp
+  - [Elixir of Life (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=2925) — **Level 13** consumable, 600gp. *(Frozen among adventurer supplies)*
+  - 2x [Potion of Cold Resistance (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=1607) — **Level 14** consumable, 675gp each = 1,350gp. *(Thematic for white dragon's lair)*
+  - [Antidote (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2919) — **Level 14** consumable, 675gp. *(From an adventurer's kit)*
+  - [Potion of Fire Resistance (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=1607) — **Level 14** consumable, 675gp. *(From an adventurer's pack)*
+  - [Oil of Animation](https://2e.aonprd.com/Equipment.aspx?ID=1545) — **Level 12** consumable, 330gp. *(Bronze-colored oil found among warrior's gear)*
+  - 2x [Healing Potion (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=2943) — **Level 12** consumable, 400gp each = 800gp
   - 6x vials frozen [Holy Water](https://2e.aonprd.com/Equipment.aspx?ID=3001) — 3gp each = 18gp
   - 6x [everburning torch](https://2e.aonprd.com/Equipment.aspx?ID=255) — 15gp each = 90gp
-  - 2x [Greater Dragon Bane Ammunition](https://2e.aonprd.com/Equipment.aspx?ID=1895) (arrows) — **Level 11**, 250gp each = 500gp. Count as currency (below level): **250gp**
+  - 2x [Greater Dragon Bane Ammunition](https://2e.aonprd.com/Equipment.aspx?ID=1895) (arrows) — **Level 11**, 250gp each. Count as currency: **250gp**
   - 14x arrows (mundane) — negligible
-  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Dispelling Globe](https://2e.aonprd.com/Spells.aspx?ID=1494) (rank 6) — **Level 11**, 300gp. Count as currency: **150gp**
-  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Heal](https://2e.aonprd.com/Spells.aspx?ID=1547) (rank 6) — **Level 11**, 300gp. Count as currency: **150gp**
   - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Cleanse Affliction](https://2e.aonprd.com/Spells.aspx?ID=1467) (rank 3) — **Level 5**, 30gp. Count as currency: **15gp**
-  - 6x [Healing Potion (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=2943) — **Level 12**, 400gp each = 2,400gp. Use 2 as **L12 consumables** (800gp), 4 count toward currency at 200gp each = 800gp
   - 4x [Healing Potion (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=2943) — **Level 6**, 50gp each = 200gp. Count as currency: **100gp**
-  - 2x [Potion of Resistance (cold, Greater)](https://2e.aonprd.com/Equipment.aspx?ID=1607) — **Level 12**, 350gp each = 700gp. Count as currency: **350gp**
 
 **Permanent Items:**
   - [Chime of Opening](https://2e.aonprd.com/Equipment.aspx?ID=252) (5 charges) — Level 6, 235gp. Count as currency: **120gp**
@@ -134,8 +137,8 @@ Consumable total: ~2,300gp
 
 - **Creatures:** None (hidden panel, Perception DC 30)
 - **Loot:**
-  - 3x [Healing Potion (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=2943) — **Level 12**, 400gp each = 1,200gp. Count as currency: **600gp**
-  - [Potion of Haste](https://2e.aonprd.com/Equipment.aspx?ID=1595) — **Level 14** consumable, 900gp
+  - 3x [Healing Potion (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=2943) — **Level 12**, 400gp each. Count as currency: **600gp**
+  - [Potion of Quickness](https://2e.aonprd.com/Equipment.aspx?ID=1595) — **Level 14** consumable, 900gp
 
 ---
 
@@ -179,7 +182,7 @@ Consumable total: ~2,300gp
 - **Creatures:** Azaven (lich)
 - **Loot:**
   - [Staff of Hungry Shadows](../Statblocks/staff_of_hungry_shadows-1608759177.pdf) (custom) — treat as **Level 14** permanent item, 4,500gp
-  - [Charm of Resistance (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=3065) — replaces ring of protection +2. **Level 10**, 1,000gp. Count as currency: **500gp**
+  - 2x [Potion of Resistance (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=1607) — **Level 14** consumable, 675gp each = 1,350gp. *(Void-resistance, thematic for a lich's defenses)*
   - [Cloak of the Bat](https://2e.aonprd.com/Equipment.aspx?ID=425) — replaces bracers of armor +5 (thematic for a necromancer lurking in crypts). **Level 10**, 900gp. Count as currency: **450gp**
   - Contingency statuette (art object) — 200gp (1e: 2,000gp / 10)
   - Surgical equipment — 120gp (1e: 1,200gp / 10)
@@ -268,6 +271,7 @@ Consumable total: ~2,300gp
   - +1 striking dagger — Level 4, 100gp. Count as currency: **50gp**
   - +2 resilient [glamered](https://2e.aonprd.com/Equipment.aspx?ID=289) dawnsilver chain shirt (replaces +2 glamered mithral chain shirt) — **Level 14** permanent item: 1,400gp (armor) + 1,600gp (dawnsilver) + 140gp (glamered) = 3,140gp
   - [Spacious Pouch (Type II)](https://2e.aonprd.com/Equipment.aspx?ID=3032) — replaces handy haversack. Level 7, 300gp. Count as currency: **150gp**
+  - [Antidote (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2919) — **Level 14** consumable, 675gp. *(Among Delvahine's collection of exotic substances)*
   - 4x [Healing Potion (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=2943) — Level 6, 50gp each = 200gp. Count as currency: **100gp**
   - [Potion of Cleanse Affliction](https://2e.aonprd.com/Equipment.aspx?ID=1595) (replaces potion of remove disease) — Level 7, 60gp. Count as currency: **30gp**
   - [Potion of Sure Footing](https://2e.aonprd.com/Equipment.aspx?ID=1605) (replaces potion of remove paralysis) — Level 5, 25gp. Count as currency: **15gp**
@@ -319,6 +323,7 @@ Consumable total: ~2,300gp
   - [Robe of the Archmagi](https://2e.aonprd.com/Equipment.aspx?ID=464) (black) — **Level 15** permanent item, 6,500gp
   - [Ring of Wizardry (Type III)](https://2e.aonprd.com/Equipment.aspx?ID=462) — replaces ring of wizardry II + headband of vast int +6 (apex items too high level; ring upgraded to Type III instead). **Level 12**, 2,000gp. Count as currency: **1,000gp**
   - [Charlatan's Cape](https://2e.aonprd.com/Equipment.aspx?ID=3063) — replaces cape of the mountebank. **Level 10**, 980gp. Count as currency: **400gp**
+  - [Potion of Flying (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=1596) — **Level 15** consumable, 1,300gp. *(On Vraxeris's body)*
 
 ### I4 Library
 
@@ -353,9 +358,8 @@ Consumable total: ~2,300gp
   - Silver mirror — 100gp (1e: 1,000gp / 10)
   - **Hidden drawer (Perception DC 30):**
     - 2x [Immovable Rod](https://2e.aonprd.com/Equipment.aspx?ID=259) — **Level 9**, 600gp each = 1,200gp. Count as currency: **600gp**
-    - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Teleport](https://2e.aonprd.com/Spells.aspx?ID=1720) (rank 6) — **Level 11**, 300gp. Count as currency: **150gp**
-    - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Stone to Flesh](https://2e.aonprd.com/Spells.aspx?ID=311) (rank 6) — **Level 11**, 300gp. Count as currency: **150gp**
-    - ~~Manual of gainful exercise +2~~ — stat tomes don't exist in 2e; no replacement
+    - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Teleport](https://2e.aonprd.com/Spells.aspx?ID=1720) (rank 8) — **Level 15** consumable, 1,300gp
+    - [Elixir of Life (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2925) — **Level 15** consumable, 1,300gp. *(Replaces scroll of stone to flesh + manual of gainful exercise — stat tomes don't exist in 2e)*
   - **Jordimandus's Spellbooks** (13 tomes, does not count against budget):
     - Cantrips: [Caustic Blast](https://2e.aonprd.com/Spells.aspx?ID=1461), [Telekinetic Hand](https://2e.aonprd.com/Spells.aspx?ID=1715), [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=1639), [Light](https://2e.aonprd.com/Spells.aspx?ID=1585), [Figment](https://2e.aonprd.com/Spells.aspx?ID=1528)
     - Rank 1: [Mystic Armor](https://2e.aonprd.com/Spells.aspx?ID=1611), [Summon Construct](https://2e.aonprd.com/Spells.aspx?ID=318), [Force Barrage](https://2e.aonprd.com/Spells.aspx?ID=1536), [Enfeeble](https://2e.aonprd.com/Spells.aspx?ID=1513)
@@ -409,7 +413,7 @@ Consumable total: ~3,900gp
 - **Creatures:** Iron Archer (golem)
 - **Loot:**
   - Golem eye gemstone — 250gp (1e: 2,500gp / 10)
-  - [Elemental Gem](https://2e.aonprd.com/Equipment.aspx?ID=243) (fire) — replaces gem of brightness. **Level 10**, 200gp. Count as currency: **100gp**
+  - [Truesight Potion](https://2e.aonprd.com/Equipment.aspx?ID=1604) — replaces gem of brightness. **Level 16** consumable, 1,800gp. *(Shimmering liquid distilled from the golem's crystal eye)*
 
 ### K3 Barracks
 
@@ -420,6 +424,8 @@ Consumable total: ~3,900gp
   - 6x +1 striking greatsword (sinspawn) — Level 4, 100gp each. Half value: **300gp**
   - 6x +1 resilient breastplate (sinspawn; replaces +2 breastplate — downgraded) — Level 8, 500gp each. Half value: **1,500gp**
   - 6x warrior spellbooks — minor value, does not count against budget
+
+  - [Potion of Resistance (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=1607) — **Level 14** consumable, 675gp. *(Found in a warrior's kit — fire-resistance, prepared for combat)*
 
 *Note: There is an enormous amount of bulk equipment here. For budget purposes, the total currency value of all K3 equipment is capped at **2,000gp** (representing what can practically be sold/salvaged). Most of it is Thassilonian military gear of limited interest to merchants.*
 
@@ -446,8 +452,9 @@ Consumable total: ~3,900gp
   - +3 greater striking [flaming](https://2e.aonprd.com/Equipment.aspx?ID=295) adamantine ranseur (standard-grade; replaces +3 flaming adamantine ranseur) — **Level 16** permanent item: 10,000gp (weapon) + 500gp (flaming) + 1,400gp (adamantine) = 11,900gp
   - +2 greater resilient dawnsilver breastplate (standard-grade; replaces +4 mithral breastplate) — **Level 14**: 4,500gp (armor) + 1,600gp (dawnsilver) = 6,100gp. Treat as **Level 15** permanent item
   - [Wand of Crackling Lightning](https://2e.aonprd.com/Equipment.aspx?ID=3424) (5th-rank; replaces wand of lightning bolt CL10 25ch) — **Level 14**, 4,500gp. Treat as **Level 15** permanent item
-  - [Ring of Wizardry (Type IV)](https://2e.aonprd.com/Equipment.aspx?ID=462) — replaces headband vast int +2 + ring of protection +2 (combined into one powerful item). **Level 14** consumable slot, 4,000gp
-  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Howling Blizzard](https://2e.aonprd.com/Spells.aspx?ID=1559) (rank 7) — **Level 13**, 720gp. Use as **Level 14 consumable**
+  - [Ring of Wizardry (Type IV)](https://2e.aonprd.com/Equipment.aspx?ID=462) — replaces headband vast int +2 + ring of protection +2 (combined into one powerful item). **Level 14** extra permanent, 4,000gp
+  - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Howling Blizzard](https://2e.aonprd.com/Spells.aspx?ID=1559) (rank 8) — **Level 15** consumable, 1,300gp
+  - [Elixir of Life (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2925) — **Level 15** consumable, 1,300gp. *(From Athroxis's personal stores)*
   - Spell component pouch — 5gp
   - **Athroxis's Spellbooks** (3 tomes, does not count against budget):
     - Cantrips: [Caustic Blast](https://2e.aonprd.com/Spells.aspx?ID=1461), [Frostbite](https://2e.aonprd.com/Spells.aspx?ID=1539), [Light](https://2e.aonprd.com/Spells.aspx?ID=1585), [Shield](https://2e.aonprd.com/Spells.aspx?ID=1671), [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=1639)
@@ -502,12 +509,7 @@ Consumable total: ~4,920gp
 
 | Level | Target | Allocated | Difference |
 |-------|--------|-----------|------------|
-| 13 | 26,500gp | ~26,888gp | +1.5% |
-| 14 | 38,750gp | ~55,005gp | +42% (see note) |
-| 15.5 | 28,875gp | ~31,475gp | +9% |
-| **Total** | **94,125gp** | **~113,368gp** | **+20%** |
-
-*Level 14 intentionally exceeds budget: Runeforge is a megadungeon with 7 boss encounters each carrying signature permanent items. The party won't use all of them — excess will be sold or stored. See budget.py for detailed breakdown.*
+Run `budget.py` for detailed breakdown with slot checks. Runeforge is a megadungeon with 7 boss encounters each carrying signature permanent items — the treasure-by-level budget is intentionally exceeded, as the party won't use all items and will sell excess.
 
 ---
 

@@ -124,11 +124,14 @@ t13 = print_budget(
     ],
     extra_permanents=[],
     consumables=[
+        ("Potion of Cold Resistance Greater x2", 14, 1350),
+        ("Antidote Major", 14, 675),
+        ("Potion of Fire Resistance Greater", 14, 675),
+        ("Scroll Dispelling Globe rank 7", 13, 600),
+        ("Scroll Heal rank 7", 13, 600),
+        ("Elixir of Life Greater", 13, 600),
         ("Healing Potion Greater x2", 12, 800),
-        ("Blasting Stone Moderate x2", 11, 200),
-        ("Potion of Resistance cold x2", 12, 700),
-        ("Scroll Dispelling Globe rank 6", 11, 300),
-        ("Scroll Heal rank 6", 11, 300),
+        ("Oil of Animation", 12, 330),
     ],
     currency=[
         ("Mixed coinage (dragon hoard)", 730),
@@ -140,7 +143,6 @@ t13 = print_budget(
         ("Holy water x6", 18),
         ("Everburning torches x6", 90),
         ("Dragon bane ammo x2 (half)", 250),
-        ("Healing potions Greater x4 (half)", 800),
         ("Healing potions Moderate x4 (half)", 100),
         ("Scroll Cleanse Affliction (half)", 15),
         ("Chime of Opening (half)", 120),
@@ -152,7 +154,6 @@ t13 = print_budget(
         ("Cloak of the Bat (half)", 450),
         ("Charm of Resistance cold (half)", 500),
         ("+2 resilient half-plate wolf (half)", 700),
-        ("Resistance potions cold x2 (half)", 350),
     ],
 )
 
@@ -179,14 +180,14 @@ t14 = print_budget(
         ("Golem Stylus", 13, 3000),
     ],
     consumables=[
-        ("Scroll Interplanar Teleport rank 7", 13, 600),
-        ("Scroll Interplanar Teleport rank 7", 13, 600),
-        ("Potion of Quickness", 14, 900),
-        ("Healing Potion Greater", 12, 400),
-        ("Healing Potion Greater", 12, 400),
-        ("Healing Potion Greater", 12, 400),
-        ("Scroll of Teleport rank 6", 11, 300),
-        ("Scroll of Stone to Flesh rank 6", 11, 300),
+        ("Scroll Teleport rank 8 (J5)", 15, 1300),
+        ("Elixir of Life Major (J5)", 15, 1300),
+        ("Potion of Flying Greater (Vraxeris)", 15, 1300),
+        ("Potion of Quickness (E4)", 14, 900),
+        ("Potion of Resistance Greater x2 (Azaven)", 14, 1350),
+        ("Antidote Major (Delvahine)", 14, 675),
+        ("Scroll Interplanar Teleport rank 7 (F4)", 13, 600),
+        ("Scroll Interplanar Teleport rank 7 (F4)", 13, 600),
     ],
     currency=[
         # Part 3: Abjurant Halls
@@ -199,7 +200,6 @@ t14 = print_budget(
         ("+2 resilient chain shirt Xyoddin (half)", 700),
         ("Lenses x10", 100),
         ("Coins (Xyoddin)", 15),
-        ("Charm of Resistance Greater Azaven (half)", 500),
         ("Cloak of the Bat Azaven (half)", 450),
         ("Contingency statuette", 200),
         ("Surgical equipment", 120),
@@ -234,7 +234,6 @@ t14 = print_budget(
         ("Ivory plaque", 5),
         ("Silver mirror", 100),
         ("Immovable Rods x2 (half)", 600),
-        ("Scrolls J5 (half)", 300),
     ],
 )
 
@@ -257,8 +256,10 @@ t15 = print_budget(
         ("Ring of Wizardry Type IV", 14, 4000),
     ],
     consumables=[
-        ("Scroll Howling Blizzard rank 7", 13, 720),
-        ("Elemental Gem fire", 10, 200),
+        ("Truesight Potion (golem eye)", 16, 1800),
+        ("Scroll Howling Blizzard rank 8 (Athroxis)", 15, 1300),
+        ("Elixir of Life Major (Athroxis)", 15, 1300),
+        ("Potion of Resistance Greater (K3)", 14, 675),
     ],
     currency=[
         ("Golem eye gemstone", 250),
