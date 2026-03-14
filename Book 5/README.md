@@ -105,7 +105,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
    - [Fiendish Mustard Jelly PDF](./Statblocks/fiendish_mustard_jelly-1608758632.pdf) by @Primemakes.
    - [Fiendish Mustard Jelly PNG](./Statblocks/fiendish_mustard_jelly-1608758629.png)
  - **Loot (E3):** 12 flasks of ethillion (alchemical reagent, 250gp each = 3,000gp)
- - **Loot (E4, hidden panel DC 30):** 3x [Healing Potion (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=2943), 1x [Potion of Haste](https://2e.aonprd.com/Equipment.aspx?ID=1595) (L14)
+ - **Loot (E4, hidden panel DC 30):** 3x [Healing Potion (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=2943) (L12), 1x [Antiplague (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2920) (L14)
 
 ## Part 4: The Ravenous Crypts (Party Level 14/15, 370/220xp)
 

@@ -183,7 +183,7 @@ t14 = print_budget(
         ("Scroll Teleport rank 8 (J5)", 15, 1300),
         ("Elixir of Life Major (J5)", 15, 1300),
         ("Potion of Flying Greater (Vraxeris)", 15, 1300),
-        ("Potion of Quickness (E4)", 14, 900),
+        ("Antiplague Major (E4)", 14, 675),
         ("Potion of Resistance Greater x2 (Azaven)", 14, 1350),
         ("Antidote Major (Delvahine)", 14, 675),
         ("Scroll Interplanar Teleport rank 7 (F4)", 13, 600),

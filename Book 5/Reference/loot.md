@@ -138,7 +138,7 @@ Consumable total: ~2,300gp
 - **Creatures:** None (hidden panel, Perception DC 30)
 - **Loot:**
   - 3x [Healing Potion (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=2943) — **Level 12**, 400gp each. Count as currency: **600gp**
-  - [Potion of Quickness](https://2e.aonprd.com/Equipment.aspx?ID=1595) — **Level 14** consumable, 900gp
+  - [Antiplague (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2920) — **Level 14** consumable, 675gp
 
 ---
 
