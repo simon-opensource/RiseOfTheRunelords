@@ -39,12 +39,17 @@ Part | Title            | Level | Max XP
 - XP is allocated, and encounters adjusted, to match the original AP levelling guidelines at fast advancement. 
 - Encounters use the 1E Challenge Rating (CR) as their basis. Bosses and single creatures are usually the same as CR or 1 or 2 higher. Minions with low CRs tend to be raised more to work in 2E.
 
-## TO DO
-  - treasure by level
-
 ## Party Level and Target Allocation of Treasure
 
+Level | Total gp | Permanent Items | Consumables | Currency | Parts
+------|----------|-----------------|-------------|----------|------
+Lv13  | 26,500gp | **14th:** 2 **13th:** 3 | **14th:** 3 **13th:** 3 **12th:** 2 | 7,500gp | 1, 2
+Lv14  | 38,750gp | **15th:** 2 **14th:** 3 | **15th:** 3 **14th:** 3 **13th:** 2 | 11,250gp | 3-8
+Lv15½ | 28,875gp | **16th:** 1 **15th:** 2 | **16th:** 1 **15th:** 2 **14th:** 1 | 8,125gp | 9, 10
+
 [Full Level to Wealth Chart](http://2e.aonprd.com/Rules.aspx?ID=581)
+
+Budget is for 5 PCs. Detailed treasure allocation with item links is in [Reference/loot.md](./Reference/loot.md).
 
 ## General Encounter Advice
 
@@ -56,10 +61,11 @@ Part | Title            | Level | Max XP
 ## Part 1: The Scribbler (Party Level 13, 220 xp)
   
 ### The Scribbler (60xp, low threat)
-  - [The Scribbler PDF](./Statblocks/the_scribbler-1608755911.pdf), by @Primemakes.  
+  - [The Scribbler PDF](./Statblocks/the_scribbler-1608755911.pdf), by @Primemakes.
   - ![The Scribbler PNG](./Statblocks/the_scribbler-1608755904.png)
   - [Fanged falchion PDF](./Statblocks/fanged_falchion-1608756957.pdf), by @Primemakes.
   - ![Fanged falchion PNG](./Statblocks/fanged_falchion-1608756953.png)
+  - **Loot:** [Fanged Falchion](./Statblocks/fanged_falchion-1608756957.pdf) (L14), +1 [returning](https://2e.aonprd.com/Equipment.aspx?ID=301) [cold iron](https://2e.aonprd.com/Equipment.aspx?ID=2856) striking dagger, +2 resilient breastplate, 75gp diamond dust
 
 ### Shrine (40 or 50xp, trivial threat)
   - [Yerrin-ku](https://2e.aonprd.com/Monsters.aspx?ID=101)
@@ -68,6 +74,9 @@ Part | Title            | Level | Max XP
 ### A8 Kennels (60xp, low threat)
   - 6x [Hounds of Lamashtu PDF](./Statblocks/hound_of_lamashtu-1608757137.pdf), by @Primemakes and @Nintendogeek01.
   - ![Hounds of Lamashtu PNG](./Statblocks/hound_of_lamashtu-1608757133.png)
+
+### A10 The Scribbler's Lair
+  - **Loot:** 17 vials of ink, [Revelation Quill](./Statblocks/fanged_falchion-1608756957.pdf) (Artifact, Item 20 — see below)
 
 ### A9 Outer Sanctum (60xp, low threat)
   - The Scribbler's suggestion, by @Nintendogeek01:
@@ -85,15 +94,18 @@ Part | Title            | Level | Max XP
 ### The Circle (Party level 13, 80xp, moderate threat)
   - [Arkrhyst](https://2e.aonprd.com/Monsters.aspx?ID=141)
   - Consider adding extra minions to the Arkrhyst encounter to make it a severe encounter. @Nintendogeek01 made two Frost Giant rangers called Gunvor and Gunilla, look for it on the discord server.
+  - **Loot (Dragon Hoard — C5):** Major treasure hoard. See [loot.md](./Reference/loot.md) for full list. Key items: +2 [greater striking](https://2e.aonprd.com/Equipment.aspx?ID=2829) runestone (L12), [Wand of Crackling Lightning](https://2e.aonprd.com/Equipment.aspx?ID=3424) 3rd-rank (L14), [Wand of Shardstorm](https://2e.aonprd.com/Equipment.aspx?ID=3052) 3rd-rank (L13), [Cloak of the Bat](https://2e.aonprd.com/Equipment.aspx?ID=425) (L10), +1 flaming striking longsword, assorted healing potions, scrolls, and ~2,500gp in coins/art
 
 ### The Stairway (Party level 13, 60xp, low threat)  
   - 2x [Elite Elemental Avalanche](https://2e.aonprd.com/Monsters.aspx?ID=186)
   
 ## Part 3: The Abjurant Halls (Party Level 14/15, 50/40 xp)
  - **Creatures:**
-   - Disjunction pulse hazard: Disable Thievery DC 33 (master). The Rod's Counteract Check for the [Disjunction](https://2e.aonprd.com/Spells.aspx?ID=77) effect is DC28.  
+   - Disjunction pulse hazard: Disable Thievery DC 33 (master). The Rod's Counteract Check for the [Disjunction](https://2e.aonprd.com/Spells.aspx?ID=77) effect is DC28.
    - [Fiendish Mustard Jelly PDF](./Statblocks/fiendish_mustard_jelly-1608758632.pdf) by @Primemakes.
    - [Fiendish Mustard Jelly PNG](./Statblocks/fiendish_mustard_jelly-1608758629.png)
+ - **Loot (E3):** 12 flasks of ethillion (alchemical reagent, 250gp each = 3,000gp)
+ - **Loot (E4, hidden panel DC 30):** 3x [Healing Potion (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=2943), 1x [Potion of Haste](https://2e.aonprd.com/Equipment.aspx?ID=1595) (L14)
 
 ## Part 4: The Ravenous Crypts (Party Level 14/15, 370/220xp)
 
@@ -107,13 +119,14 @@ Part | Title            | Level | Max XP
 
 ### F3 The crypt of Lord Mankray (20/10xp, trivial threat)
   - Elite [Clay Golem](https://2e.aonprd.com/Monsters.aspx?ID=240)
+  - **Loot:** Gold leaf scrapings (80gp), 2 star sapphires (100gp each), 12 amethyst grapes (30gp each), 68 bottles of Thassilonian wine (10gp each, also usable as runeforge component)
 
 ### F4 Infusion Chamber (70/50xp, low threat)
   - [Nightwing PDF](./Statblocks/nightwing-1608758979.pdf)  by @Primemakes.
   - ![Nightwing PNG](./Statblocks/nightwing-1608758977.png)
-  
   - Negative Energy Portal
   - ![Negative Energy Portal PNG](./Statblocks/NegativeEnergyPortal.png)
+  - **Loot (secret niche, Perception DC 30):** 2x Scroll of [Interplanar Teleport](https://2e.aonprd.com/Spells.aspx?ID=1576) rank 7 (L13), tuning fork attuned to Runeforge (quest item)
 
 ### F7 Laboratory (30/20xp, trivial threat))
   - [Xyoddin Xerriock PDF](./Statblocks/xyoddin_xerriock-1608759484.pdf) by @Primemakes.
@@ -128,10 +141,12 @@ Part | Title            | Level | Max XP
   - ![Azaven PNG](./Statblocks/azaven-1608759100.png)
   - [Staff of Hungry Shadows PDF](./Statblocks/staff_of_hungry_shadows-1608759177.pdf) by @Primemakes.
   - ![Staff of Hungry Shadows PNG](./Statblocks/staff_of_hungry_shadows-1608759174.png)
+  - **Loot:** [Staff of Hungry Shadows](./Statblocks/staff_of_hungry_shadows-1608759177.pdf) (L14), [Charm of Resistance (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=3065) (L10), [Cloak of the Bat](https://2e.aonprd.com/Equipment.aspx?ID=425) (L10), contingency statuette (200gp), surgical equipment (120gp)
 
-### F11 (30/20xp, trivial threat)
+### F11 Azaven's Phylactery (30/20xp, trivial threat)
   - Necromantic Deathtrap
   - ![Necromantic Deathtrap PNG](./Statblocks/NecromanticDeathtrap.png)
+  - **Loot:** Mixed jewels/gems (700gp), [Golem Stylus](https://2e.aonprd.com/Equipment.aspx?ID=1060) (L13), Azaven's spellbooks (10 tomes — see [loot.md](./Reference/loot.md) for spell lists)
    
 
 ## Part 5: The Vault of Greed (Party Level 14/15, 240/190 xp)
@@ -152,11 +167,12 @@ Part | Title            | Level | Max XP
 ### G4 Fountains (60/40xp, low/trivial threat)
   - 4 [Stone Golem](https://2e.aonprd.com/Monsters.aspx?ID=241)
 
-### G6 Research Center (40/30xp, trivial threat) 
+### G6 Research Center (40/30xp, trivial threat)
   - [Ordikon PDF](./Statblocks/ordikon__the_mithral_mage-1608760000.pdf) by @Primemakes.
   - ![Ordikon PNG](./Statblocks/ordikon__the_mithral_mage-1608759998.png)
   - [Staff of Mithral Might PDF](./Statblocks/staff_of_mithral_might-1608760065.pdf) by @Primemakes.
   - ![Staff of Mithral Might PNG](./Statblocks/staff_of_mithral_might-1608760063.png)
+  - **Loot:** [Staff of Mithral Might](./Statblocks/staff_of_mithral_might-1608760065.pdf) (L14), [Ring of Wizardry Type II](https://2e.aonprd.com/Equipment.aspx?ID=462) (L10), 50gp diamond dust, transmutation research books (1,000gp), Ordikon's spellbooks (see [loot.md](./Reference/loot.md))
 
 ### G7 Hall of Golden Repose (40/30xp, trivial threat)  
   - [Zuzuveg](https://2e.aonprd.com/Monsters.aspx?ID=602)
@@ -174,10 +190,11 @@ Part | Title            | Level | Max XP
 ### H (60/40xp, low/trivial threat)
   - Enslaved [cloud giants](https://2e.aonprd.com/Monsters.aspx?ID=224) 1 per PC
 
-### H (60/40xp, low/trivial threat)   
+### H (60/40xp, low/trivial threat)
   - [Delvahine PDF](./Statblocks/delvahine-1608760521.pdf) by @Primemakes.
   - ![Delvahine PNG](./Statblocks/delvahine-1608760519.png)
   - Idea for Sadist's Lash by @Primemakes: +2 wounding whip. 15 feet reach **Activate**: Increase the casting time of an enchantment spell (with range touch) by one action: Strike with the lash, delivering the spell on a successful hit. On a critical success the target is stupified 1.
+  - **Loot:** [Sadist's Lash](./Statblocks/delvahine-1608760521.pdf) (L14, +2 wounding whip), +1 striking dagger, +2 resilient [glamered](https://2e.aonprd.com/Equipment.aspx?ID=289) dawnsilver chain shirt (L14), [Spacious Pouch Type II](https://2e.aonprd.com/Equipment.aspx?ID=3032). Hidden under bed: 4x [Healing Potion (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=2943), potions of [Cleanse Affliction](https://2e.aonprd.com/Spells.aspx?ID=1467) and [Sure Footing](https://2e.aonprd.com/Spells.aspx?ID=1708)
 
 ### H (60/40xp, low/trivial threat) 
   - 2 (Level 13) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shining Children](https://2e.aonprd.com/Monsters.aspx?ID=367)
@@ -189,10 +206,17 @@ Part | Title            | Level | Max XP
   - For the unique Mirrors of Opposition use the 1E stats and the stats from [Darkside Mirror](https://2e.aonprd.com/Hazards.aspx?ID=28) as guides.
 
 ### I2 Peacock Shrine (80/60xp, moderate/low threat)
-  - The Vraxerises amuse themselves with illusions of objects, scenes, and even imitating other people from runeforge. It is likely one or two of their illusions are active when encountered - adding to the confusion. 
+  - The Vraxerises amuse themselves with illusions of objects, scenes, and even imitating other people from runeforge. It is likely one or two of their illusions are active when encountered - adding to the confusion.
   - [False Vraxerises](./Statblocks/FalseVraxeris.pdf) by @Lawrencealot.
   - ![False Vraxerises PNG](./Statblocks/FalseVraxeris.png)
   - There is 1 Vraxeris per PC.
+  - **Loot:** Golden peacock (80gp), simulacra spellbooks (see [loot.md](./Reference/loot.md))
+
+### I3 Meditation Room
+  - **Loot:** [Robe of the Archmagi](https://2e.aonprd.com/Equipment.aspx?ID=464) (black, L15, 6,500gp — on Vraxeris's body), [Ring of Wizardry Type III](https://2e.aonprd.com/Equipment.aspx?ID=462) (L12), [Charlatan's Cape](https://2e.aonprd.com/Equipment.aspx?ID=3063) (L10), Vraxeris's spellbooks (12 tomes — see [loot.md](./Reference/loot.md)), Vraxeris's journal (quest item)
+
+### I4 Library
+  - **Loot:** [Hat of Disguise (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=442) (L7), Thassilonian books (150gp)
 
 ### I6 Bedroom (80/60xp, moderate/low threat)
   - For False Delvahines use double weak Level 12 Delvahine (see above) and remove the 7th level spells and the magical lash.
@@ -210,7 +234,10 @@ Part | Title            | Level | Max XP
       - Empathic link to Jordimandus within 1 mile
       - Abilities: Flier, Darkvision, Fast Movement (fly 40ft), Manual Dexterity, Speech (Thassilonian)
 
-### J2 Sluice (70/50xp, low threat)  
+### J3 Filthy Grave
+  - **Loot:** [Spacious Pouch Type II](https://2e.aonprd.com/Equipment.aspx?ID=3032) (L7), [Staff of Summoning (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=3046) (L10), conjurer's spellbooks (see [loot.md](./Reference/loot.md))
+
+### J2 Sluice (70/50xp, low threat)
   - 2 [Omox Demon](https://2e.aonprd.com/Monsters.aspx?ID=1112)
   - 2 [Elder Water Elemental](https://2e.aonprd.com/Monsters.aspx?ID=200)
 
@@ -221,12 +248,14 @@ Part | Title            | Level | Max XP
   - [Jordimandus PDF](./Statblocks/jordimandus-1608761094.pdf) by @Primemakes.
   - ![Jordimandus PNG](./Statblocks/jordimandus-1608761092.png)
   - Replace Variant Ochre Jellies with 1 [Tallow Ooze](https://2e.aonprd.com/Monsters.aspx?ID=533) per PC
+  - **Loot:** [Rod of Negation](https://2e.aonprd.com/Equipment.aspx?ID=264) (L14), [Spacious Pouch Type II](https://2e.aonprd.com/Equipment.aspx?ID=3032), 155gp in valuables. **Hidden drawer (DC 30):** 2x [Immovable Rod](https://2e.aonprd.com/Equipment.aspx?ID=259) (L9), [Winged Boots](https://2e.aonprd.com/Equipment.aspx?ID=470) (L13), scrolls of [Teleport](https://2e.aonprd.com/Spells.aspx?ID=1720) and [Stone to Flesh](https://2e.aonprd.com/Spells.aspx?ID=311), Jordimandus's spellbooks (13 tomes — see [loot.md](./Reference/loot.md))
  
 
  ## Part 9: The Halls of Wrath (Party Level 14/15, 290/200 xp)
  
  ### K1 Iron Guardian (30/20xp, trivial threat)
   - [Iron Archer](https://2e.aonprd.com/Monsters.aspx?ID=242) with a longbow (use melee stats for to hit, wrath arrows)
+  - **Loot:** Golem eye gemstone (250gp), [Elemental Gem](https://2e.aonprd.com/Equipment.aspx?ID=243) (fire, L10)
 
 ### K3 Barracks (90/60xp, moderate/low threat)
   - The total number of warriors and axemen should equal 50% more than the number of PCs. For a party of 4 that means 6 in total split however you wish.
@@ -243,8 +272,9 @@ Part | Title            | Level | Max XP
 
 ### K6 Hall (110/80xp, severe/moderate threat)
   - [Highlady Athroxis PDF](./Statblocks/highlady_athroxis-1608761466.pdf) (60/80xp) by @Primemakes.
-  - ![Highlady Athroxis PNG](./Statblocks/highlady_athroxis-1608761464.png) 
-  -[Glabrezu](https://2e.aonprd.com/Monsters.aspx?ID=101) (20/30xp)
+  - ![Highlady Athroxis PNG](./Statblocks/highlady_athroxis-1608761464.png)
+  - [Glabrezu](https://2e.aonprd.com/Monsters.aspx?ID=101) (20/30xp)
+  - **Loot:** +3 greater striking [flaming](https://2e.aonprd.com/Equipment.aspx?ID=2838) adamantine ranseur (L16), +2 greater resilient dawnsilver breastplate (L15), [Wand of Crackling Lightning](https://2e.aonprd.com/Equipment.aspx?ID=3424) 5th-rank (L14), [Ring of Wizardry Type IV](https://2e.aonprd.com/Equipment.aspx?ID=462) (L14), Scroll of [Howling Blizzard](https://2e.aonprd.com/Spells.aspx?ID=1559) rank 7 (L13), Athroxis's spellbooks (3 tomes — see [loot.md](./Reference/loot.md))
 
 
  ## Part 10: Weapons of Power (Party Level 14/15, 80/60 xp)
@@ -252,7 +282,7 @@ Part | Title            | Level | Max XP
     - [Karzoug Golem PDF](./Statblocks/KarzougGolem.pdf) by @Primemakes.
     - ![Karzoug Golem PNG](./Statblocks/KarzougGolem.png)
 
-- [Dominant Weapon](./Statblocks/DominantWeapon.pdf)
+- [Dominant Weapon](./Statblocks/DominantWeapon.pdf) — story item, forged by PCs at Runeforge pool
 - ![Dominant Weapon PNG](./Statblocks/DominantWeapon.png)
 - Designers notes: Discussion of dominant/commanding weapons reasoned that outright countering was not in keeping with other 2E abilities, and that a counteract ability was closest to intent. The current definition borrows from aligned weapons and for the reaction ability from the ring of counterspells and the ring of spell turning. Note that spell DCs of Khalib and Karzoug in book 6 are in the mid 40s so a counteract of 30 is only around a 25% chance of working vs them, though with all PCs having a dominant weapon the odds of one of them working is high. To raise the counteract modifier would require raising the level of the item. Another option considered (of the same level) was an effect based on the foresight spell, effectively allowing 2 saving throws, keep the highest, or 2 targeting rolls, take the lowest.
     
