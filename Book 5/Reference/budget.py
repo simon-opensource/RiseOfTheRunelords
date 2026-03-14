@@ -3,86 +3,132 @@
 Budget calculator for Book 5 treasure allocation.
 Party of 5 PCs, levels 13, 14, and first half of 15.
 
-Budget targets (from 2e treasure-by-level table, adjusted for 5 PCs):
-  Level 13: 26,500 gp
-  Level 14: 38,750 gp
-  Level 15.5: 28,875 gp
-  Total: 94,125 gp
+Tracks both GP totals AND item-level slot requirements.
 
-Items are categorized as:
-  - permanent: fills a required permanent item slot (full value)
-  - extra_permanent: above the slot count (full value, eats into budget)
-  - consumable: fills a consumable slot (full value)
-  - currency: coins, art, or below-level items counted at half price
-    (the value listed IS the budget-counted value, already halved where applicable)
-  - story: does not count against budget (artifacts, quest items)
-  - reference: spellbooks and similar (does not count against budget)
+Budget targets (from 2e treasure-by-level table, adjusted for 5 PCs):
+  Level 13: 26,500 gp — permanents: 14th x2, 13th x3 | consumables: 14th x3, 13th x3, 12th x2 | currency: 7,500 gp
+  Level 14: 38,750 gp — permanents: 15th x2, 14th x3 | consumables: 15th x3, 14th x3, 13th x2 | currency: 11,250 gp
+  Level 15.5: 28,875 gp — permanents: 16th x1, 15th x2 | consumables: 16th x1, 15th x2, 14th x1 | currency: 8,125 gp
 """
 
+# (name, item_level, gp_value)
+Item = tuple[str, int, int]
 
-def print_budget(label, target, permanents, extra_permanents, consumables, currency):
-    perm_total = sum(v for _, v in permanents)
-    extra_total = sum(v for _, v in extra_permanents)
-    cons_total = sum(v for _, v in consumables)
+
+def print_budget(
+    label: str,
+    target_gp: int,
+    target_perm_slots: dict[int, int],  # {item_level: count}
+    target_cons_slots: dict[int, int],
+    target_currency: int,
+    permanents: list[Item],
+    extra_permanents: list[Item],
+    consumables: list[Item],
+    currency: list[tuple[str, int]],
+):
+    perm_total = sum(v for _, _, v in permanents)
+    extra_total = sum(v for _, _, v in extra_permanents)
+    cons_total = sum(v for _, _, v in consumables)
     curr_total = sum(v for _, v in currency)
     total = perm_total + extra_total + cons_total + curr_total
 
-    print(f"\n{'=' * 60}")
+    print(f"\n{'=' * 70}")
     print(f"  {label}")
-    print(f"{'=' * 60}")
+    print(f"{'=' * 70}")
 
-    print(f"\n  Permanent Items (in slots):")
-    for name, val in permanents:
-        print(f"    {name:50s} {val:>8,} gp")
-    print(f"    {'':50s} --------")
-    print(f"    {'Subtotal':50s} {perm_total:>8,} gp")
+    # --- Permanent items ---
+    print(f"\n  Permanent Items:")
+    for name, lvl, val in permanents:
+        print(f"    L{lvl:<3d} {name:48s} {val:>8,} gp")
+    print(f"    {'':52s} --------")
+    print(f"    {'Subtotal':52s} {perm_total:>8,} gp")
 
+    # Slot check
+    print(f"\n  Permanent Slot Check (target → actual):")
+    perm_levels = {}
+    for _, lvl, _ in permanents:
+        perm_levels[lvl] = perm_levels.get(lvl, 0) + 1
+    all_levels = sorted(set(list(target_perm_slots.keys()) + list(perm_levels.keys())), reverse=True)
+    for lvl in all_levels:
+        target = target_perm_slots.get(lvl, 0)
+        actual = perm_levels.get(lvl, 0)
+        status = "✓" if actual >= target else f"✗ (need {target - actual} more)"
+        if actual > target:
+            status = f"⚠ (+{actual - target} extra)"
+        print(f"    L{lvl}: {target} needed, {actual} allocated  {status}")
+
+    # --- Extra permanents ---
     if extra_permanents:
         print(f"\n  Extra Permanent Items (above slot count):")
-        for name, val in extra_permanents:
-            print(f"    {name:50s} {val:>8,} gp")
-        print(f"    {'':50s} --------")
-        print(f"    {'Subtotal':50s} {extra_total:>8,} gp")
+        for name, lvl, val in extra_permanents:
+            print(f"    L{lvl:<3d} {name:48s} {val:>8,} gp")
+        print(f"    {'':52s} --------")
+        print(f"    {'Subtotal':52s} {extra_total:>8,} gp")
 
+    # --- Consumables ---
     print(f"\n  Consumables:")
-    for name, val in consumables:
-        print(f"    {name:50s} {val:>8,} gp")
-    print(f"    {'':50s} --------")
-    print(f"    {'Subtotal':50s} {cons_total:>8,} gp")
+    for name, lvl, val in consumables:
+        print(f"    L{lvl:<3d} {name:48s} {val:>8,} gp")
+    print(f"    {'':52s} --------")
+    print(f"    {'Subtotal':52s} {cons_total:>8,} gp")
 
+    # Consumable slot check
+    print(f"\n  Consumable Slot Check (target → actual):")
+    cons_levels = {}
+    for _, lvl, _ in consumables:
+        cons_levels[lvl] = cons_levels.get(lvl, 0) + 1
+    all_cons_levels = sorted(set(list(target_cons_slots.keys()) + list(cons_levels.keys())), reverse=True)
+    for lvl in all_cons_levels:
+        target = target_cons_slots.get(lvl, 0)
+        actual = cons_levels.get(lvl, 0)
+        status = "✓" if actual >= target else f"✗ (need {target - actual} more)"
+        if actual > target:
+            status = f"⚠ (+{actual - target} extra)"
+        print(f"    L{lvl}: {target} needed, {actual} allocated  {status}")
+
+    # --- Currency ---
     print(f"\n  Currency & Below-Level Items:")
     for name, val in currency:
-        print(f"    {name:50s} {val:>8,} gp")
-    print(f"    {'':50s} --------")
-    print(f"    {'Subtotal':50s} {curr_total:>8,} gp")
+        print(f"    {name:52s} {val:>8,} gp")
+    print(f"    {'':52s} --------")
+    print(f"    {'Subtotal':52s} {curr_total:>8,} gp")
+    curr_diff = curr_total - target_currency
+    print(f"    {'Target':52s} {target_currency:>8,} gp")
+    print(f"    {'Difference':52s} {curr_diff:>+8,} gp")
 
-    diff = total - target
-    pct = diff / target * 100
-    print(f"\n  {'TOTAL':50s} {total:>8,} gp")
-    print(f"  {'Target':50s} {target:>8,} gp")
-    print(f"  {'Difference':50s} {diff:>+8,} gp ({pct:+.1f}%)")
+    # --- Totals ---
+    diff = total - target_gp
+    pct = diff / target_gp * 100
+    print(f"\n  {'TOTAL':52s} {total:>8,} gp")
+    print(f"  {'Target':52s} {target_gp:>8,} gp")
+    print(f"  {'Difference':52s} {diff:>+8,} gp ({pct:+.1f}%)")
+
+    return total, target_gp
 
 
 # ============================================================
 # LEVEL 13: Parts 1-2 (The Scribbler + Dragon Hoard)
 # ============================================================
-print_budget(
+t13 = print_budget(
     "LEVEL 13 (Parts 1-2)",
-    target=26_500,
+    target_gp=26_500,
+    target_perm_slots={14: 2, 13: 3},
+    target_cons_slots={14: 3, 13: 3, 12: 2},
+    target_currency=7_500,
     permanents=[
-        ("Fanged Falchion (L14)", 4500),
-        ("Wand of Crackling Lightning 3rd-rank (L14)", 4500),
-        ("Wand of Shardstorm 3rd-rank (L13)", 3000),
-        ("+2 greater striking runestone (L12)", 2000),
-        ("+2 resilient breastplate (Scribbler, L11)", 1400),
+        ("Fanged Falchion", 14, 4500),
+        ("Wand of Crackling Lightning 3rd-rank", 14, 4500),
+        ("Wand of Shardstorm 3rd-rank", 13, 3000),
+        ("+2 greater striking runestone", 12, 2000),
+        ("+2 resilient breastplate (Scribbler)", 11, 1400),
     ],
     extra_permanents=[],
     consumables=[
-        ("Healing Potion Greater x2 (L12)", 800),
-        ("Blasting Stone Moderate x2 (L11)", 200),
-        ("Potion of Resistance cold x2 (L12)", 700),
-        ("Scroll Dispelling Globe rank 6 (L11)", 300),
-        ("Scroll Heal rank 6 (L11)", 300),
+        ("Healing Potion Greater x2", 12, 800),
+        ("Blasting Stone Moderate x2", 11, 200),
+        ("Potion of Resistance cold x2", 12, 700),
+        ("Scroll Dispelling Globe rank 6", 11, 300),
+        ("Scroll Heal rank 6", 11, 300),
     ],
     currency=[
         ("Mixed coinage (dragon hoard)", 730),
@@ -114,27 +160,33 @@ print_budget(
 # ============================================================
 # LEVEL 14: Parts 3-8 (Runeforge wings)
 # ============================================================
-print_budget(
+t14 = print_budget(
     "LEVEL 14 (Parts 3-8)",
-    target=38_750,
+    target_gp=38_750,
+    target_perm_slots={15: 2, 14: 3},
+    target_cons_slots={15: 3, 14: 3, 13: 2},
+    target_currency=11_250,
     permanents=[
-        ("Robe of the Archmagi black (L15)", 6500),
-        ("Rod of Negation (L14)", 4300),
-        ("Staff of Hungry Shadows (L14)", 4500),
-        ("Staff of Mithral Might (L14)", 4500),
-        ("Sadist's Lash (L14)", 4500),
+        ("Robe of the Archmagi black", 15, 6500),
+        ("Rod of Negation", 14, 4300),
+        ("Staff of Hungry Shadows", 14, 4500),
+        ("Staff of Mithral Might", 14, 4500),
+        ("Sadist's Lash", 14, 4500),
     ],
     extra_permanents=[
-        ("+2 GS keen wounding dagger, Xyoddin (L14)", 4500),
-        ("+2 resilient glamered dawnsilver chain shirt (L14)", 3140),
-        ("Golem Stylus (L13)", 3000),
+        ("+2 GS keen wounding dagger (Xyoddin)", 14, 4500),
+        ("+2 resilient glamered dawnsilver chain shirt", 14, 3140),
+        ("Golem Stylus", 13, 3000),
     ],
     consumables=[
-        ("Scroll Interplanar Teleport rank 7 x2 (L13)", 1200),
-        ("Potion of Quickness (L14)", 900),
-        ("Healing Potion Greater x3 (L12)", 1200),
-        ("Scroll Teleport rank 6 (L11)", 300),
-        ("Scroll Stone to Flesh rank 6 (L11)", 300),
+        ("Scroll Interplanar Teleport rank 7", 13, 600),
+        ("Scroll Interplanar Teleport rank 7", 13, 600),
+        ("Potion of Quickness", 14, 900),
+        ("Healing Potion Greater", 12, 400),
+        ("Healing Potion Greater", 12, 400),
+        ("Healing Potion Greater", 12, 400),
+        ("Scroll of Teleport rank 6", 11, 300),
+        ("Scroll of Stone to Flesh rank 6", 11, 300),
     ],
     currency=[
         # Part 3: Abjurant Halls
@@ -182,7 +234,7 @@ print_budget(
         ("Ivory plaque", 5),
         ("Silver mirror", 100),
         ("Immovable Rods x2 (half)", 600),
-        ("Scrolls J5 (Teleport + StF, half)", 300),
+        ("Scrolls J5 (half)", 300),
     ],
 )
 
@@ -190,20 +242,23 @@ print_budget(
 # ============================================================
 # LEVEL 15.5: Parts 9-10 (Halls of Wrath + Weapons of Power)
 # ============================================================
-print_budget(
+t15 = print_budget(
     "LEVEL 15.5 (Parts 9-10)",
-    target=28_875,
+    target_gp=28_875,
+    target_perm_slots={16: 1, 15: 2},
+    target_cons_slots={16: 1, 15: 2, 14: 1},
+    target_currency=8_125,
     permanents=[
-        ("+3 GS flaming adamantine ranseur Athroxis (L16)", 11900),
-        ("+2 GR dawnsilver breastplate Athroxis (L15)", 6100),
-        ("Wand of Crackling Lightning 5th-rank (L15)", 4500),
+        ("+3 GS flaming adamantine ranseur (Athroxis)", 16, 11900),
+        ("+2 GR dawnsilver breastplate (Athroxis)", 15, 6100),
+        ("Wand of Crackling Lightning 5th-rank", 15, 4500),
     ],
     extra_permanents=[
-        ("Ring of Wizardry Type IV (L14)", 4000),
+        ("Ring of Wizardry Type IV", 14, 4000),
     ],
     consumables=[
-        ("Scroll Howling Blizzard rank 7 (L13)", 720),
-        ("Elemental Gem fire (L10)", 200),
+        ("Scroll Howling Blizzard rank 7", 13, 720),
+        ("Elemental Gem fire", 10, 200),
     ],
     currency=[
         ("Golem eye gemstone", 250),
@@ -218,26 +273,19 @@ print_budget(
 # ============================================================
 # GRAND TOTAL
 # ============================================================
-print(f"\n{'=' * 60}")
+print(f"\n{'=' * 70}")
 print(f"  GRAND TOTAL")
-print(f"{'=' * 60}")
-# Just re-run the numbers
-totals = {}
-for label, target, parts in [
-    ("Level 13", 26_500, [4500+4500+3000+2000+1400, 0, 800+200+700+300+300,
-        730+1500+240+125+75+5+18+90+250+800+100+15+120+220+250+300+750+1600+450+500+700+350]),
-    ("Level 14", 38_750, [6500+4300+4500+4500+4500, 4500+3140+3000, 1200+900+1200+300+300,
-        1800+600+400+1185+750+700+100+15+500+450+200+120+400+225+50+360+65+750+50+2400+975+300+100+30+15+150+80+30+60+150+1000+400+100+150+450+50+5+100+600+300]),
-    ("Level 15.5", 28_875, [11900+6100+4500, 4000, 720+200,
-        250+2000+1500+300+5]),
-]:
-    perm, extra, cons, curr = parts
-    total = perm + extra + cons + curr
+print(f"{'=' * 70}")
+grand_total = t13[0] + t14[0] + t15[0]
+grand_target = t13[1] + t14[1] + t15[1]
+for label, (total, target) in [("Level 13", t13), ("Level 14", t14), ("Level 15.5", t15)]:
     diff = total - target
     pct = diff / target * 100
     print(f"  {label:15s}  total: {total:>8,}  target: {target:>8,}  diff: {diff:>+7,} ({pct:+.1f}%)")
-    totals[label] = (total, target)
-
-grand_total = sum(t for t, _ in totals.values())
-grand_target = sum(t for _, t in totals.values())
-print(f"  {'Grand':15s}  total: {grand_total:>8,}  target: {grand_target:>8,}  diff: {grand_total - grand_target:>+7,} ({(grand_total - grand_target) / grand_target * 100:+.1f}%)")
+diff = grand_total - grand_target
+pct = diff / grand_target * 100
+print(f"  {'Grand':15s}  total: {grand_total:>8,}  target: {grand_target:>8,}  diff: {diff:>+7,} ({pct:+.1f}%)")
+print()
+print("  Note: Level 14 intentionally exceeds budget. Runeforge is a")
+print("  megadungeon with 7 wings, each with a boss carrying signature")
+print("  permanent items. The party won't use all of them.")
