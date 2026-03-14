@@ -1,0 +1,101 @@
+{
+  "img": "systems/pf2e/icons/equipment/tattoos/rune-of-sin.webp",
+  "name": "Commanding",
+  "system": {
+    "description": {
+      "gm": "<p>The Commanding rune is the virtue-themed variant of the Dominant rune. They are mechanically identical — the difference is purely semantic, for groups that prefer a virtue-focused campaign over a sin-focused one.</p>",
+      "value": "<p>Runeforged weapons command powerful rune energy. A Runeforged rune counts as a property rune but is not restricted by the property rune limit, although a weapon can never have more than one Runeforged rune. Anyone wielding a Runeforged weapon takes a -2 penalty on all Diplomacy checks, as her vices or virtues are magnified at the expense of personality. A creature that carries two Runeforged weapons, even those of the same type, is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 5} as her mind is constantly assailed by multiple empathic urges, and can only lose this condition by removing one of the weapons.</p><hr /><p>A Commanding weapon with this intertwined illusion and enchantment Runeforged rune deals an extra 2d6 mental damage against transmuters and shapechangers, e.g. creatures with the change shape ability. If you are a shapechanger or a transmuter specialist wizard you are @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} while carrying or wielding this weapon.</p><hr /><p><strong>Activate</strong> <span class=\"action-glyph\">R</span> (envision)</p><p><strong>Trigger</strong> You are targeted by a transmutation spell or you make a successful Strike against a creature under the effect of a transmutation spell.</p><p><strong>Effect</strong> Make a counteract check with a +30 modifier to counter the spell.</p><p><strong>Daily Limit:</strong> This ability can counter no more than 9 total levels of spells per day. If you activate this ability to counter a spell that would exceed this limit, the attempt fails, but the attempted usage does not count toward the daily limit.</p>"
+    },
+    "rules": [],
+    "slug": "commanding",
+    "_migration": {
+      "version": 0.954,
+      "lastMigration": null,
+      "previous": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "enchantment",
+        "illusion",
+        "magical"
+      ],
+      "rarity": "rare"
+    },
+    "publication": {
+      "title": "Rise of the Runelords (2E Conversion)",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "level": {
+      "value": 17
+    },
+    "quantity": 1,
+    "baseItem": null,
+    "bulk": {
+      "value": 0
+    },
+    "hp": {
+      "value": 0,
+      "max": 0
+    },
+    "hardness": 0,
+    "price": {
+      "value": {}
+    },
+    "equipped": {
+      "carryType": "worn"
+    },
+    "containerId": null,
+    "size": "med",
+    "material": {
+      "type": null,
+      "grade": null
+    },
+    "identification": {
+      "status": "identified",
+      "unidentified": {
+        "name": "Runeforged Weapon Rune",
+        "img": "systems/pf2e/icons/equipment/tattoos/rune-of-sin.webp",
+        "data": {
+          "description": {
+            "value": "<p>A shimmering rune that pulses with intertwined magical energies.</p>"
+          }
+        }
+      },
+      "misidentified": {}
+    },
+    "category": "rune",
+    "usage": {
+      "value": "etched-onto-weapon"
+    }
+  },
+  "type": "equipment",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "exportSource": {
+      "world": "rise-of-the-runelords",
+      "system": "pf2e",
+      "coreVersion": "13.350",
+      "systemVersion": "7.9.1"
+    }
+  },
+  "_id": "c0mM4nD1nGrUn3B5",
+  "ownership": {
+    "default": 0
+  }
+}

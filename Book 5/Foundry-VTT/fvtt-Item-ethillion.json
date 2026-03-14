@@ -1,0 +1,112 @@
+{
+  "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+  "name": "Ethillion",
+  "system": {
+    "description": {
+      "gm": "<p>Ethillion is also one of the components required to create a runeforged weapon in the Runeforge pool (see Part Ten: Weapons of Power).</p><p>The secret of creating ethillion died with the Abjurant Lords. Uncharged ethillion drains magic from an item placed in it over 24 hours, rendering it nonmagical and creating 1 dose of ethillion per 5,000 gp of the drained item's value.</p>",
+      "value": "<p>Ethillion is a shimmering, pale blue liquid invented by the Abjurant Lords of Runeforge — a rare abjuration-infused alchemical substance that stores magical potentiality. It can be safely transported in any container that can hold water.</p><hr /><p><strong>Activate</strong> <span class=\"action-glyph\">A</span> (manipulate)</p><p>You drink the ethillion, becoming infused with magical potentiality. You gain a +2 item bonus to your next Crafting check made to Craft a magic item. In addition, the time required to Craft the item is reduced by 1 day (to a minimum of 1 day). Multiple doses of ethillion stack; the effects persist until you next attempt to Craft a magic item.</p><hr /><p><strong>Activate</strong> <span class=\"action-glyph\">F</span> (manipulate)</p><p>You use a flask of ethillion as an additional material component while Casting an abjuration spell. The spell's counteract modifier (if any) increases by 2, and creatures that must attempt a saving throw against the spell take a -1 circumstance penalty to that save.</p>"
+    },
+    "rules": [],
+    "slug": "ethillion",
+    "_migration": {
+      "version": 0.954,
+      "lastMigration": null,
+      "previous": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "alchemical",
+        "abjuration",
+        "consumable",
+        "magical",
+        "rare"
+      ],
+      "rarity": "rare"
+    },
+    "publication": {
+      "title": "Rise of the Runelords (2E Conversion)",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "level": {
+      "value": 12
+    },
+    "quantity": 1,
+    "baseItem": null,
+    "bulk": {
+      "value": 0.1
+    },
+    "hp": {
+      "value": 0,
+      "max": 0
+    },
+    "hardness": 0,
+    "price": {
+      "value": {
+        "gp": 250
+      }
+    },
+    "equipped": {
+      "carryType": "worn"
+    },
+    "containerId": null,
+    "size": "med",
+    "material": {
+      "type": null,
+      "grade": null
+    },
+    "identification": {
+      "status": "identified",
+      "unidentified": {
+        "name": "Shimmering Blue Liquid",
+        "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+        "data": {
+          "description": {
+            "value": "<p>A flask of shimmering, pale blue liquid that hums faintly with arcane energy.</p>"
+          }
+        }
+      },
+      "misidentified": {}
+    },
+    "category": "potion",
+    "uses": {
+      "value": 1,
+      "max": 1,
+      "autoDestroy": true
+    },
+    "damage": null,
+    "usage": {
+      "value": "held-in-one-hand"
+    },
+    "spell": null
+  },
+  "type": "consumable",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "exportSource": {
+      "world": "rise-of-the-runelords",
+      "system": "pf2e",
+      "coreVersion": "13.350",
+      "systemVersion": "7.9.1"
+    }
+  },
+  "_id": "eTh1LL10n00Book5",
+  "ownership": {
+    "default": 0
+  }
+}

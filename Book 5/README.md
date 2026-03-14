@@ -128,9 +128,13 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
   - ![Negative Energy Portal PNG](./Statblocks/NegativeEnergyPortal.png)
   - **Loot (secret niche, Perception DC 30):** 2x Scroll of [Interplanar Teleport](https://2e.aonprd.com/Spells.aspx?ID=1576) rank 7 (L13), tuning fork attuned to Runeforge (quest item)
 
+### F6 Research Room
+  - **Loot:** Necrology reference books (400gp, grant +2 circumstance bonus to Religion checks regarding undead)
+
 ### F7 Laboratory (30/20xp, trivial threat))
   - [Xyoddin Xerriock PDF](./Statblocks/xyoddin_xerriock-1608759484.pdf) by @Primemakes.
   - ![Xyoddin Xerriock PNG](./Statblocks/xyoddin_xerriock-1608759025.png)
+  - **Loot:** +1 striking human bane dagger, +2 resilient chain shirt, 10 lenses and magnifiers (100gp), 15gp, necromancy research books (1,000gp, +2 circ Arcana/Religion vs necromancy)
 
 ### F8 Crypt Guardians (60/30xp, low/trivial threat)
   - 6x [Elite Thassilonian Mummy PDF](./Statblocks/thassilonian_mummy-1608758808.pdf)  by @Primemakes.
@@ -146,7 +150,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
 ### F11 Azaven's Phylactery (30/20xp, trivial threat)
   - Necromantic Deathtrap
   - ![Necromantic Deathtrap PNG](./Statblocks/NecromanticDeathtrap.png)
-  - **Loot:** Mixed jewels/gems (700gp), [Golem Stylus](https://2e.aonprd.com/Equipment.aspx?ID=1060) (L13), Azaven's spellbooks (10 tomes — see [loot.md](./Reference/loot.md) for spell lists)
+  - **Loot:** Mixed jewels/gems (700gp), [Golem Stylus](https://2e.aonprd.com/Equipment.aspx?ID=1060) (L13), [Octopus Bottle](https://2e.aonprd.com/Equipment.aspx?ID=1952) (L8), Azaven's spellbooks (10 tomes — see [loot.md](./Reference/loot.md) for spell lists)
    
 
 ## Part 5: The Vault of Greed (Party Level 14/15, 240/190 xp)
@@ -154,6 +158,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
 ### G1 Pilferer's Bane (40/30xp, trivial threat)
   - Crushing Door Trap
   - ![Crushing Door PNG](./Statblocks/CrushingDoor.png)
+  - **Loot:** Colorful gemstones (50gp)
 
 ### G2 Morphic Mist (40/30xp, trivial threat)
   - Morphic Mist
@@ -172,7 +177,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
   - ![Ordikon PNG](./Statblocks/ordikon__the_mithral_mage-1608759998.png)
   - [Staff of Mithral Might PDF](./Statblocks/staff_of_mithral_might-1608760065.pdf) by @Primemakes.
   - ![Staff of Mithral Might PNG](./Statblocks/staff_of_mithral_might-1608760063.png)
-  - **Loot:** [Staff of Mithral Might](./Statblocks/staff_of_mithral_might-1608760065.pdf) (L14), [Ring of Wizardry Type II](https://2e.aonprd.com/Equipment.aspx?ID=462) (L10), 50gp diamond dust, transmutation research books (1,000gp), Ordikon's spellbooks (see [loot.md](./Reference/loot.md))
+  - **Loot:** [Staff of Mithral Might](./Statblocks/staff_of_mithral_might-1608760065.pdf) (L14), [Ring of Wizardry Type II](https://2e.aonprd.com/Equipment.aspx?ID=462) (L10), [Detect Metal](https://2e.aonprd.com/Equipment.aspx?ID=1053) (L5), 50gp diamond dust, transmutation research books (1,000gp), Ordikon's spellbooks (see [loot.md](./Reference/loot.md))
 
 ### G7 Hall of Golden Repose (40/30xp, trivial threat)  
   - [Zuzuveg](https://2e.aonprd.com/Monsters.aspx?ID=602)
@@ -180,14 +185,18 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
 
 ## Part 6: The Iron Cages of Lust (Party Level 14/15, 220/140xp)
 
-### (40/20xp, trivial threat)
+### H1 Cathedral (40/20xp, trivial threat)
   - [ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PDF](./Statblocks/alu_demon_submissive-1608760344.pdf) by @Primemakes.
   - ![ERYALLA, LELYRIN, VOIVOD, AND ZEVASHALA PNG](./Statblocks/alu_demon_submissive-1608760342.png)
+  - **Loot:** 4x masterwork ranseur (40gp), 4x assorted jewelry (800gp each = 3,200gp)
+
+### H2 Empty Displays
+  - **Loot:** 13 silver and gold cages decorated with golden birds and flowers (100gp each = 1,300gp)
 
 ### H3 (RP encounter)
-  - Nelevetu Voan - if stats are needed then use an unequipped [Captain of the Guard](https://2e.aonprd.com/NPCs.aspx?ID=937) 
+  - Nelevetu Voan - if stats are needed then use an unequipped [Captain of the Guard](https://2e.aonprd.com/NPCs.aspx?ID=937)
 
-### H (60/40xp, low/trivial threat)
+### H6 Pavilion (60/40xp, low/trivial threat)
   - Enslaved [cloud giants](https://2e.aonprd.com/Monsters.aspx?ID=224) 1 per PC
 
 ### H (60/40xp, low/trivial threat)
@@ -196,9 +205,12 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
   - Idea for Sadist's Lash by @Primemakes: +2 wounding whip. 15 feet reach **Activate**: Increase the casting time of an enchantment spell (with range touch) by one action: Strike with the lash, delivering the spell on a successful hit. On a critical success the target is stupified 1.
   - **Loot:** [Sadist's Lash](./Statblocks/delvahine-1608760521.pdf) (L14, +2 wounding whip), +1 striking dagger, +2 resilient [glamered](https://2e.aonprd.com/Equipment.aspx?ID=289) dawnsilver chain shirt (L14), [Spacious Pouch Type II](https://2e.aonprd.com/Equipment.aspx?ID=3032). Hidden under bed: 4x [Healing Potion (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=2943), potions of [Cleanse Affliction](https://2e.aonprd.com/Spells.aspx?ID=1467) and [Sure Footing](https://2e.aonprd.com/Spells.aspx?ID=1708)
 
-### H (60/40xp, low/trivial threat) 
+### H (60/40xp, low/trivial threat)
   - 2 (Level 13) [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Shining Children](https://2e.aonprd.com/Monsters.aspx?ID=367)
   - Note the incapacitation effect will be one step reduced.
+
+### H8 Boudoir
+  - **Loot:** Exotic bejeweled art objects (240gp)
 
 ## Part 7: The Shimmering Veils (Party Level 14/15, 220/180 xp)
 
@@ -210,10 +222,10 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
   - [False Vraxerises](./Statblocks/FalseVraxeris.pdf) by @Lawrencealot.
   - ![False Vraxerises PNG](./Statblocks/FalseVraxeris.png)
   - There is 1 Vraxeris per PC.
-  - **Loot:** Golden peacock (80gp), simulacra spellbooks (see [loot.md](./Reference/loot.md))
+  - **Loot:** Golden peacock (80gp), 6x daggers, 6x noble's outfits (60gp), simulacra spellbooks (see [loot.md](./Reference/loot.md))
 
 ### I3 Meditation Room
-  - **Loot:** [Robe of the Archmagi](https://2e.aonprd.com/Equipment.aspx?ID=464) (black, L15, 6,500gp — on Vraxeris's body), [Ring of Wizardry Type III](https://2e.aonprd.com/Equipment.aspx?ID=462) (L12), [Charlatan's Cape](https://2e.aonprd.com/Equipment.aspx?ID=3063) (L10), Vraxeris's spellbooks (12 tomes — see [loot.md](./Reference/loot.md)), Vraxeris's journal (quest item)
+  - **Loot:** Thassilonian books on illusion (150gp), [Robe of the Archmagi](https://2e.aonprd.com/Equipment.aspx?ID=464) (black, L15, 6,500gp — on Vraxeris's body), [Ring of Wizardry Type III](https://2e.aonprd.com/Equipment.aspx?ID=462) (L12), [Charlatan's Cape](https://2e.aonprd.com/Equipment.aspx?ID=3063) (L10), Vraxeris's spellbooks (12 tomes — see [loot.md](./Reference/loot.md)), Vraxeris's journal (quest item)
 
 ### I4 Library
   - **Loot:** [Hat of Disguise (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=442) (L7), Thassilonian books (150gp)
@@ -264,11 +276,16 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
 
   - [Sinspawn Axemen PDF](./Statblocks/sinspawn_axemen-1608761416.pdf) by @Primemakes.
   - ![Sinspawn Axemen PNG](./Statblocks/sinspawn_axemen-1608761414.png)
+  - **Loot:** Bulk Thassilonian military equipment: +1 striking greatswords, +1 resilient dawnsilver chain shirts (warriors), +1 striking greataxes, +1 resilient breastplates (sinspawn), warrior spellbooks. See [loot.md](./Reference/loot.md) for values.
 
 ### K4 Lab (60/40xp, low/trivial threat)
   - There is one warrior per PC.
   - Consider replacing some or all of the warriors with [Alchemist of Wrath PDF](./Statblocks/AlchemistofWrath.pdf) by @Lawrencealot.
-  ![Alchemist of Wrath PNG](./Statblocks/AlchemistofWrath.png) 
+  ![Alchemist of Wrath PNG](./Statblocks/AlchemistofWrath.png)
+  - **Loot:** Same bulk equipment as K3. See [loot.md](./Reference/loot.md).
+
+### K5 Chamber of Readiness
+  - **Loot:** 2x +1 striking greatsword, 2x +1 striking ranseur, 2x +1 striking longsword (embedded in walls, Athletics DC 30 or Stone to Flesh to extract; all glow continuously)
 
 ### K6 Hall (110/80xp, severe/moderate threat)
   - [Highlady Athroxis PDF](./Statblocks/highlady_athroxis-1608761466.pdf) (60/80xp) by @Primemakes.

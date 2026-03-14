@@ -1,0 +1,107 @@
+{
+  "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+  "name": "Revelation Quill",
+  "system": {
+    "description": {
+      "gm": "<p><strong>Destruction:</strong> The quill must be tricked into revealing the method of destroying itself without asking it to reveal that method.</p>",
+      "value": "<p>This quill is fashioned from a peacock's tail feather. Its nib is made of bone, and when held in one's hand, the quill seems strangely heavy. If placed in an empty vial or other glass container of similar size and left there for one hour, a Revelation Quill fills that container with ink. The ink created is of a random color 50% of the time; otherwise the ink is black. A Revelation Quill can act as a standard writing implement, but its true strength lies in its ability to answer questions.</p><hr /><p><strong>Activate</strong> 10 minutes (envision)</p><p><strong>Frequency</strong> once per day</p><p><strong>Effect</strong> While holding the quill, you concentrate on a specific future goal, event, or activity occurring within the coming week. The Revelation Quill takes over and writes out a response similar to the way @UUID[Compendium.pf2e.spells-srd.Item.Augury]{Augury} functions, except the response can be a short phrase, often in the form of a cryptic rhyme or omen.</p><hr /><p><strong>Activate</strong> 10 minutes (envision)</p><p><strong>Frequency</strong> once per week</p><p><strong>Effect</strong> You may use the quill to ask the mysterious intellect that guides the Revelation Quill up to 10 questions as though you had rolled a success to cast the @UUID[Compendium.pf2e.spells-srd.Item.Commune]{Commune} ritual.</p>"
+    },
+    "rules": [],
+    "slug": "revelation-quill",
+    "_migration": {
+      "version": 0.954,
+      "lastMigration": null,
+      "previous": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "artifact",
+        "divine",
+        "magical"
+      ],
+      "rarity": "rare"
+    },
+    "publication": {
+      "title": "Rise of the Runelords (2E Conversion)",
+      "authors": "@Nintendogeek01",
+      "license": "OGL",
+      "remaster": false
+    },
+    "level": {
+      "value": 20
+    },
+    "quantity": 1,
+    "baseItem": null,
+    "bulk": {
+      "value": 0.1
+    },
+    "hp": {
+      "value": 0,
+      "max": 0
+    },
+    "hardness": 0,
+    "price": {
+      "value": {}
+    },
+    "equipped": {
+      "carryType": "held",
+      "handsHeld": 1
+    },
+    "containerId": null,
+    "size": "med",
+    "material": {
+      "type": null,
+      "grade": null
+    },
+    "identification": {
+      "status": "identified",
+      "unidentified": {
+        "name": "Ornate Peacock Feather Quill",
+        "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+        "data": {
+          "description": {
+            "value": "<p>A quill fashioned from a peacock's tail feather with a bone nib. It feels strangely heavy.</p>"
+          }
+        }
+      },
+      "misidentified": {}
+    },
+    "category": "held",
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "autoDestroy": false
+    },
+    "usage": {
+      "value": "held-in-one-hand"
+    }
+  },
+  "type": "equipment",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.350",
+    "systemId": "pf2e",
+    "systemVersion": "7.9.1",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "exportSource": {
+      "world": "rise-of-the-runelords",
+      "system": "pf2e",
+      "coreVersion": "13.350",
+      "systemVersion": "7.9.1"
+    }
+  },
+  "_id": "r3V3L4t10nQu1LL5",
+  "ownership": {
+    "default": 0
+  }
+}

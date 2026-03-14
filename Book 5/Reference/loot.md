@@ -155,7 +155,7 @@ Consumable total: ~2,300gp
 
 - **Creatures:** Nightwing
 - **Loot (secret niche, Perception DC 30):**
-  - 2x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Interplanar Teleport](https://2e.aonprd.com/Spells.aspx?ID=1576) (rank 7) — **Level 13**, 720gp each = 1,440gp. Use as 2x **Level 13 consumables**
+  - 2x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Interplanar Teleport](https://2e.aonprd.com/Spells.aspx?ID=1576) (rank 7) — **Level 13**, 600gp each = 1,200gp. Use as 2x **Level 13 consumables**
   - Tuning fork attuned to Runeforge — quest item, no gp value
 
 ### F6 Research Room
