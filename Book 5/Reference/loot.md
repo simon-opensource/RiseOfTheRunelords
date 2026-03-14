@@ -127,7 +127,7 @@ Consumable total: ~2,300gp
 
 - **Creatures:** None (guarded by disjunction pulse hazard)
 - **Loot:**
-  - 12 flasks of ethillion — alchemical reagent unique to Runeforge. Worth 250gp each in trade (1e: 2,500gp / 10) = **3,000gp** total. Treat as **currency**.
+  - 12 flasks of ethillion — alchemical reagent unique to Runeforge. Worth 200gp each in trade (1e: 2,500gp / 10, adjusted for budget) = **2,400gp** total. Treat as **currency**.
   - *Ethillion is a rare abjuration-infused alchemical fluid. It can be used as a material component to enhance abjuration spells or as a specialty crafting reagent.*
 
 ### E4 Befouled Chamber
@@ -162,7 +162,7 @@ Consumable total: ~2,300gp
 
 - **Creatures:** None
 - **Loot:**
-  - Necrology reference books — worth 400gp, grant +2 circumstance bonus to Religion checks regarding undead. **Does not count against budget (reference material).**
+  - Necrology reference books — worth 400gp, grant +2 circumstance bonus to Religion checks regarding undead. Count as currency: **400gp**
 
 ### F7 Xyoddin's Laboratory
 
@@ -172,7 +172,7 @@ Consumable total: ~2,300gp
   - +2 resilient chain shirt — Level 11, 1,400gp. Count as currency: **700gp**
   - 10 lenses and magnifiers — 10gp each = 100gp
   - 15gp loose coins (1e: 146gp / 10)
-  - Research books on necromancy — worth 1,000gp (1e: 10,000gp), grant +2 circumstance bonus to Arcana/Religion checks regarding necromancy. **Does not count against budget (reference material).**
+  - Research books on necromancy — worth 750gp (1e: 10,000gp), grant +2 circumstance bonus to Arcana/Religion checks regarding necromancy. Count as currency: **750gp**
 
 ### F10 Assembly Room (Azaven)
 
@@ -220,7 +220,7 @@ Consumable total: ~2,300gp
   - [Ring of Wizardry (Type II)](https://2e.aonprd.com/Equipment.aspx?ID=462) — replaces pearl of power 2nd + cloak of resistance. **Level 10**, 720gp. Count as currency: **360gp**
   - [Detect Metal](https://2e.aonprd.com/Equipment.aspx?ID=1053) (replaces rod of metal/mineral detection) — **Level 5**, 130gp. Count as currency: **65gp**
   - 50gp diamond dust (1e: 500gp / 10)
-  - Research books on transmutation — worth 1,000gp (1e: 10,000gp), grant +2 circumstance bonus to Arcana checks regarding transmutation. **Does not count against budget (reference material).**
+  - Research books on transmutation — worth 750gp (1e: 10,000gp), grant +2 circumstance bonus to Arcana checks regarding transmutation. Count as currency: **750gp**
   - **Ordikon's Spellbooks** (does not count against budget):
     - Cantrips: [Caustic Blast](https://2e.aonprd.com/Spells.aspx?ID=1461), [Light](https://2e.aonprd.com/Spells.aspx?ID=1585), [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=1639), [Telekinetic Hand](https://2e.aonprd.com/Spells.aspx?ID=1715), [Shield](https://2e.aonprd.com/Spells.aspx?ID=1671)
     - Rank 1: [Sure Strike](https://2e.aonprd.com/Spells.aspx?ID=1709), [Force Barrage](https://2e.aonprd.com/Spells.aspx?ID=1536), [Mystic Armor](https://2e.aonprd.com/Spells.aspx?ID=1611)
@@ -246,13 +246,13 @@ Consumable total: ~2,300gp
 - **Creatures:** 4x Alu-Demon Submissives
 - **Loot:**
   - 4x masterwork ranseur — 10gp each = 40gp
-  - 4x assorted jewelry — 800gp each (1e: 8,000gp / 10) = **3,200gp**
+  - 4x assorted jewelry — 600gp each (1e: 8,000gp, adjusted) = **2,400gp**
 
 ### H2 Empty Displays
 
 - **Creatures:** None
 - **Loot:**
-  - 13 silver and gold cages — 100gp each (1e: 1,000gp / 10) = **1,300gp**
+  - 13 silver and gold cages — 75gp each (1e: 1,000gp, adjusted) = **975gp**
 
 ### H6 Pavilion
 
@@ -421,12 +421,12 @@ Extra permanent items (count at full value but exceed slot count — offset by f
 
 Consumable total: ~4,140gp
 
-**Currency & Below-Level Items:** ~10,400gp
-(Ethillion 3,000 + healing potions 600 + crypt art 1,320 + bane dagger 200 + chain shirt 700 + lenses 100 + coins 15 + charm resistance 500 + cloak bat 450 + statuette 200 + surgical 120 + gems/linens 700 + octopus bottle 225 + gems 50 + ring wizardry 360 + detect metal 65 + diamond dust 50 + cathedral jewelry 3,200 + cages 1,300 + dagger 50 + spacious pouches 300 + moderate potions 100 + cleanse affliction 30 + sure footing 15 + boudoir 240 + peacock 80 + daggers 30 + outfits 60 + books 150 + ring wizardry III 1,000 + charlatan's cape 490 + hat disguise 170 + spacious pouch 150 + staff summoning 450 + diamond dust 50 + ivory 5 + mirror 100 + immovable rods 600 + scrolls 300)
+**Currency & Below-Level Items:** ~10,575gp
+(Ethillion 2,400 + necrology books F6 400 + healing potions 600 + crypt art 1,320 + bane dagger 200 + chain shirt 700 + lenses 100 + coins 15 + necromancy books F7 750 + charm resistance 500 + cloak bat 450 + statuette 200 + surgical 120 + gems/linens 700 + octopus bottle 225 + gems 50 + ring wizardry 360 + detect metal 65 + transmutation books G6 750 + diamond dust 50 + cathedral jewelry 2,400 + cages 975 + dagger 50 + spacious pouches 300 + moderate potions 100 + cleanse affliction 30 + sure footing 15 + boudoir 240 + peacock 80 + daggers 30 + outfits 60 + books 150 + ring wizardry III 1,000 + charlatan's cape 490 + hat disguise 170 + spacious pouch 150 + staff summoning 450 + diamond dust 50 + ivory 5 + mirror 100 + immovable rods 600 + scrolls 300)
 
-*Approximate currency subtotal: ~10,400gp* (target: 11,250gp — within 10%)
+*Approximate currency subtotal: ~10,575gp* (target: 11,250gp — within 6%)
 
-**Level 14 Grand Total: ~38,840gp** (target: 38,750gp)
+**Level 14 Grand Total: ~39,015gp** (target: 38,750gp — within 1%)
 
 ---
 
@@ -535,9 +535,9 @@ Consumable total: ~4,920gp
 | Level | Target | Allocated | Difference |
 |-------|--------|-----------|------------|
 | 13 | 26,500gp | ~26,500gp | on budget |
-| 14 | 38,750gp | ~38,840gp | +0.2% |
+| 14 | 38,750gp | ~39,015gp | +0.7% |
 | 15.5 | 28,875gp | ~28,575gp | -1.0% |
-| **Total** | **94,125gp** | **~93,915gp** | **-0.2%** |
+| **Total** | **94,125gp** | **~94,090gp** | **-0.04%** |
 
 ---
 
