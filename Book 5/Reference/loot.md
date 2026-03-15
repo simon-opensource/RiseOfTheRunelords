@@ -262,7 +262,6 @@ See `budget.py` for detailed breakdown with item-level slot checks.
 
 - **Creatures:** False Vraxerises (1 per PC)
 - **Loot:**
-  - Golden peacock idol — 80gp (1e: 800gp / 10)
   - 6x masterwork dagger — 5gp each = 30gp
   - 6x noble's outfit — 10gp each = 60gp
   - **False Vraxeris Spellbooks** (6 copies, minor value as curiosities — 20gp each = 120gp; does not count against budget). Thassilonian illusion specialist — no conjuration or transmutation spells. Simulacrum copies with prepared spells only.
@@ -278,6 +277,7 @@ See `budget.py` for detailed breakdown with item-level slot checks.
 
 - **Creatures:** None
 - **Loot:**
+  - Golden peacock idol — 80gp (1e: 800gp / 10)
   - Thassilonian books on illusion — 150gp (1e: 1,500gp / 10)
   - Vraxeris's journal — quest item, provides crucial information about Runeforge
   - **Vraxeris's Spellbooks** (12 tomes, does not count against budget). Thassilonian illusion specialist — no conjuration or transmutation spells. The real Vraxeris's complete library, more extensive than the simulacrum copies.
