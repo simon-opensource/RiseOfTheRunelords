@@ -177,7 +177,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
   - ![Ordikon PNG](./Statblocks/ordikon__the_mithral_mage-1608759998.png)
   - [Staff of Mithral Might PDF](./Statblocks/staff_of_mithral_might-1608760065.pdf) by @Primemakes.
   - ![Staff of Mithral Might PNG](./Statblocks/staff_of_mithral_might-1608760063.png)
-  - **Loot:** [Staff of Mithral Might](./Statblocks/staff_of_mithral_might-1608760065.pdf) (L14), [Ring of Wizardry Type II](https://2e.aonprd.com/Equipment.aspx?ID=462) (L10), [Detect Metal](https://2e.aonprd.com/Equipment.aspx?ID=1053) (L5), 50gp diamond dust, transmutation research books (1,000gp), Ordikon's spellbooks (see [loot.md](./Reference/loot.md))
+  - **Loot:** [Staff of Mithral Might](./Statblocks/staff_of_mithral_might-1608760065.pdf) (L14), [Ring of Wizardry Type II](https://2e.aonprd.com/Equipment.aspx?ID=462) (L10), Rod of Metal and Mineral Detection (L5, custom), 50gp diamond dust, transmutation research books (1,000gp), Ordikon's spellbooks (see [loot.md](./Reference/loot.md))
 
 ### G7 Hall of Golden Repose (40/30xp, trivial threat)  
   - [Zuzuveg](https://2e.aonprd.com/Monsters.aspx?ID=602)

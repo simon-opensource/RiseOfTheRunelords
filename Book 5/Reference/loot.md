@@ -193,7 +193,7 @@ See `budget.py` for detailed breakdown with item-level slot checks.
 - **Loot:**
   - [Staff of Mithral Might](../Statblocks/staff_of_mithral_might-1608760065.pdf) (custom) — treat as **Level 14** permanent item, 4,500gp
   - [Ring of Wizardry (Type II)](https://2e.aonprd.com/Equipment.aspx?ID=462) — replaces pearl of power 2nd + cloak of resistance. **Level 10**, 720gp. Count as currency: **360gp**
-  - [Detect Metal](https://2e.aonprd.com/Equipment.aspx?ID=1053) (replaces rod of metal/mineral detection) — **Level 5**, 130gp. Count as currency: **65gp**
+  - Rod of Metal and Mineral Detection (custom, replaces 1e rod) — **Level 5**, 130gp. Count as currency: **65gp**
   - 50gp diamond dust (1e: 500gp / 10)
   - Research books on transmutation — worth 750gp (1e: 10,000gp), grant +2 circumstance bonus to Arcana checks regarding transmutation. Count as currency: **750gp**
   - **Ordikon's Spellbooks** (does not count against budget). Thassilonian transmutation specialist — no enchantment or illusion spells.
