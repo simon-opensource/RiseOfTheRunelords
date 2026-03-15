@@ -166,15 +166,15 @@ See `budget.py` for detailed breakdown with item-level slot checks.
   - Mixed jewels, gems, and fine linens — 400gp (1e: 7,000gp, adjusted)
   - [Octopus Bottle](https://2e.aonprd.com/Equipment.aspx?ID=1952) — replaces eversmoking bottle (produces ink-dark cloud). **Level 8**, 450gp. Count as currency: **225gp**
   - [Golem Stylus](https://2e.aonprd.com/Equipment.aspx?ID=1060) — replaces golembane scarab. **Level 13** permanent item, 3,000gp
-  - **Azaven's Spellbooks** (10 tomes, does not count against budget):
-    - Cantrips: [Light](https://2e.aonprd.com/Spells.aspx?ID=1585), [Telekinetic Hand](https://2e.aonprd.com/Spells.aspx?ID=1715), [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=1639), [Frostbite](https://2e.aonprd.com/Spells.aspx?ID=1539), [Shield](https://2e.aonprd.com/Spells.aspx?ID=1671)
-    - Rank 1: [Enfeeble](https://2e.aonprd.com/Spells.aspx?ID=1513), [Mystic Armor](https://2e.aonprd.com/Spells.aspx?ID=1611), [Fear](https://2e.aonprd.com/Spells.aspx?ID=1524), [Grim Tendrils](https://2e.aonprd.com/Spells.aspx?ID=1549)
-    - Rank 2: [False Vitality](https://2e.aonprd.com/Spells.aspx?ID=1523), [See the Unseen](https://2e.aonprd.com/Spells.aspx?ID=1663), [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=1651)
-    - Rank 3: [Vampiric Feast](https://2e.aonprd.com/Spells.aspx?ID=1736), [Blindness](https://2e.aonprd.com/Spells.aspx?ID=1453), [Haste](https://2e.aonprd.com/Spells.aspx?ID=1553)
-    - Rank 4: [Vision of Death](https://2e.aonprd.com/Spells.aspx?ID=1742), [Translocate](https://2e.aonprd.com/Spells.aspx?ID=1724), [Confusion](https://2e.aonprd.com/Spells.aspx?ID=1471)
-    - Rank 5: [Summon Undead](https://2e.aonprd.com/Spells.aspx?ID=1706) (rank 5), [Howling Blizzard](https://2e.aonprd.com/Spells.aspx?ID=1559), [Wall of Ice](https://2e.aonprd.com/Spells.aspx?ID=1750)
-    - Rank 6: [Dominate](https://2e.aonprd.com/Spells.aspx?ID=1501), [Dispel Magic](https://2e.aonprd.com/Spells.aspx?ID=1493), [Disintegrate](https://2e.aonprd.com/Spells.aspx?ID=1492)
-    - Rank 7: [Execute](https://2e.aonprd.com/Spells.aspx?ID=1519), [Contingency](https://2e.aonprd.com/Spells.aspx?ID=1472)
+  - **Azaven's Spellbooks** (10 tomes, does not count against budget). Contains his prepared spells plus additional necromancy-focused arcane spells. No enchantment or illusion spells (Thassilonian prohibited schools).
+    - Cantrips: Detect Magic, Telekinetic Hand, Message, Frostbite, Shield, Void Warp, Prestidigitation, Light, Sigil
+    - Rank 1: Fleet Step, Enfeeble, Sure Strike, Mystic Armor, Fear, Grim Tendrils, Goblin Pox, Summon Undead, Lock
+    - Rank 2: Mirror Image, Resist Energy, See the Unseen, False Vitality, Darkness, Ghostly Carrier, Bone Spray, Dispel Magic, Web, Knock
+    - Rank 3: Haste, Slow, Vampiric Feast, Blindness, Bind Undead, Locate, Paralyze, Fireball, Lightning Bolt, Stinking Cloud
+    - Rank 4: Vapor Form, Translocate, Enervation, Shape Stone, Telepathy, Fly, Fire Shield, Vision of Death, Confusion, Necrotic Radiation
+    - Rank 5: Toxic Cloud, Telekinetic Haul, Wall of Ice, Black Tentacles, Howling Blizzard, Sending, Summon Dragon, Invoke Spirits
+    - Rank 6: Chain Lightning, Disintegrate, Wall of Force, Vampiric Exsanguination, Dominate, Teleport, Necrotize, Spellwrack
+    - Rank 7: Eclipse Burst, Prismatic Spray, Contingency, Interplanar Teleport, Tempest of Shades, Duplicate Foe, Power Word Blind
   - 11 enemy spellbooks — minor necromantic texts, worth 50gp total as curiosities
 
 ---
@@ -196,15 +196,15 @@ See `budget.py` for detailed breakdown with item-level slot checks.
   - [Detect Metal](https://2e.aonprd.com/Equipment.aspx?ID=1053) (replaces rod of metal/mineral detection) — **Level 5**, 130gp. Count as currency: **65gp**
   - 50gp diamond dust (1e: 500gp / 10)
   - Research books on transmutation — worth 750gp (1e: 10,000gp), grant +2 circumstance bonus to Arcana checks regarding transmutation. Count as currency: **750gp**
-  - **Ordikon's Spellbooks** (does not count against budget):
-    - Cantrips: [Caustic Blast](https://2e.aonprd.com/Spells.aspx?ID=1461), [Light](https://2e.aonprd.com/Spells.aspx?ID=1585), [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=1639), [Telekinetic Hand](https://2e.aonprd.com/Spells.aspx?ID=1715), [Shield](https://2e.aonprd.com/Spells.aspx?ID=1671)
-    - Rank 1: [Sure Strike](https://2e.aonprd.com/Spells.aspx?ID=1709), [Force Barrage](https://2e.aonprd.com/Spells.aspx?ID=1536), [Mystic Armor](https://2e.aonprd.com/Spells.aspx?ID=1611)
-    - Rank 2: [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=1651), [See the Unseen](https://2e.aonprd.com/Spells.aspx?ID=1663), [Shatter](https://2e.aonprd.com/Spells.aspx?ID=1670)
-    - Rank 3: [Haste](https://2e.aonprd.com/Spells.aspx?ID=1553), [Lightning Bolt](https://2e.aonprd.com/Spells.aspx?ID=1586), [Slow](https://2e.aonprd.com/Spells.aspx?ID=1687)
-    - Rank 4: [Mountain Resilience](https://2e.aonprd.com/Spells.aspx?ID=1610), [Fly](https://2e.aonprd.com/Spells.aspx?ID=1534), [Containment](https://2e.aonprd.com/Spells.aspx?ID=1981)
-    - Rank 5: [Forceful Hand](https://2e.aonprd.com/Spells.aspx?ID=915), [Petrify](https://2e.aonprd.com/Spells.aspx?ID=1628), [Teleport](https://2e.aonprd.com/Spells.aspx?ID=1720)
-    - Rank 6: [Disintegrate](https://2e.aonprd.com/Spells.aspx?ID=1492), [Chain Lightning](https://2e.aonprd.com/Spells.aspx?ID=1462), [Dispel Magic](https://2e.aonprd.com/Spells.aspx?ID=1493)
-    - Rank 7: [Force Cage](https://2e.aonprd.com/Spells.aspx?ID=690), [Prismatic Spray](https://2e.aonprd.com/Spells.aspx?ID=233)
+  - **Ordikon's Spellbooks** (does not count against budget). Thassilonian transmutation specialist — no enchantment or illusion spells.
+    - Cantrips: Sigil, Ignition, Telekinetic Projectile, Read Aura, Void Warp, Prestidigitation, Light, Telekinetic Hand, Shield, Detect Magic
+    - Rank 1: Fleet Step, Mending, Grease, Sure Strike, Mystic Armor, Gravitational Pull
+    - Rank 2: Enlarge, Shrink, False Vitality, Resist Energy, See the Unseen, Revealing Light
+    - Rank 3: Earthbind, Haste, Fireball, Slow, Sculpt Sound, Magnetic Acceleration
+    - Rank 4: Fly, Creation, Translocate, Shape Stone, Mountain Resilience, Fire Shield
+    - Rank 5: Grisly Growths, Heat Metal, Impaling Spike, Elemental Form, Telekinetic Haul
+    - Rank 6: Petrify, Disintegrate, Slow (rank 6), Chain Lightning, Flesh to Stone, Teleport
+    - Rank 7: Fiery Body, Cursed Metamorphosis, Prismatic Spray, Contingency
 
 ### G7 Hall of Golden Repose
 
@@ -265,12 +265,14 @@ See `budget.py` for detailed breakdown with item-level slot checks.
   - Golden peacock idol — 80gp (1e: 800gp / 10)
   - 6x masterwork dagger — 5gp each = 30gp
   - 6x noble's outfit — 10gp each = 60gp
-  - **False Vraxeris Spellbooks** (6 copies, minor value as curiosities — 20gp each = 120gp; does not count against budget):
-    - Cantrips: [Figment](https://2e.aonprd.com/Spells.aspx?ID=1528), [Light](https://2e.aonprd.com/Spells.aspx?ID=1585), [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=1639), [Telekinetic Hand](https://2e.aonprd.com/Spells.aspx?ID=1715)
-    - Rank 1: [Illusory Object](https://2e.aonprd.com/Spells.aspx?ID=1567), [Charm](https://2e.aonprd.com/Spells.aspx?ID=1463), [Force Barrage](https://2e.aonprd.com/Spells.aspx?ID=1536)
-    - Rank 2: [Illusory Creature](https://2e.aonprd.com/Spells.aspx?ID=1565), [Invisibility](https://2e.aonprd.com/Spells.aspx?ID=1577), [Mirror Image](https://2e.aonprd.com/Spells.aspx?ID=197)
-    - Rank 3: [Enthrall](https://2e.aonprd.com/Spells.aspx?ID=1516), [Haste](https://2e.aonprd.com/Spells.aspx?ID=1553), [Laughing Fit](https://2e.aonprd.com/Spells.aspx?ID=1583)
-    - Rank 4: [Confusion](https://2e.aonprd.com/Spells.aspx?ID=1471), [Invisibility](https://2e.aonprd.com/Spells.aspx?ID=1577) (rank 4), [Vision of Death](https://2e.aonprd.com/Spells.aspx?ID=1742)
+  - **False Vraxeris Spellbooks** (6 copies, minor value as curiosities — 20gp each = 120gp; does not count against budget). Thassilonian illusion specialist — no conjuration or transmutation spells. Simulacrum copies with prepared spells only.
+    - Cantrips: Figment, Message, Telekinetic Hand, Prestidigitation, Electric Arc
+    - Rank 1: Illusory Object, Enfeeble, Illusory Disguise
+    - Rank 2: Mirror Image, Illusory Object (rank 2), Resist Energy
+    - Rank 3: Gravity Well, Haste, Slow
+    - Rank 4: False Vitality, Confusion, Invisibility (rank 4)
+    - Rank 5: Vision of Death (rank 5), Dispel Magic, Shadow Siphon, Illusory Scene
+    - Rank 6: Illusory Creature (rank 6), Never Mind, Chain Lightning
 
 ### I3 Meditation Room
 
@@ -278,15 +280,15 @@ See `budget.py` for detailed breakdown with item-level slot checks.
 - **Loot:**
   - Thassilonian books on illusion — 150gp (1e: 1,500gp / 10)
   - Vraxeris's journal — quest item, provides crucial information about Runeforge
-  - **Vraxeris's Spellbooks** (12 tomes, does not count against budget):
-    - Cantrips: [Figment](https://2e.aonprd.com/Spells.aspx?ID=1528), [Light](https://2e.aonprd.com/Spells.aspx?ID=1585), [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=1639), [Telekinetic Hand](https://2e.aonprd.com/Spells.aspx?ID=1715), [Frostbite](https://2e.aonprd.com/Spells.aspx?ID=1539)
-    - Rank 1: [Illusory Object](https://2e.aonprd.com/Spells.aspx?ID=1567), [Charm](https://2e.aonprd.com/Spells.aspx?ID=1463), [Force Barrage](https://2e.aonprd.com/Spells.aspx?ID=1536), [Sure Strike](https://2e.aonprd.com/Spells.aspx?ID=1709)
-    - Rank 2: [Illusory Creature](https://2e.aonprd.com/Spells.aspx?ID=1565), [Invisibility](https://2e.aonprd.com/Spells.aspx?ID=1577), [Mirror Image](https://2e.aonprd.com/Spells.aspx?ID=197), [See the Unseen](https://2e.aonprd.com/Spells.aspx?ID=1663)
-    - Rank 3: [Enthrall](https://2e.aonprd.com/Spells.aspx?ID=1516), [Haste](https://2e.aonprd.com/Spells.aspx?ID=1553), [Laughing Fit](https://2e.aonprd.com/Spells.aspx?ID=1583), [Blindness](https://2e.aonprd.com/Spells.aspx?ID=1453)
-    - Rank 4: [Confusion](https://2e.aonprd.com/Spells.aspx?ID=1471), [Invisibility](https://2e.aonprd.com/Spells.aspx?ID=1577) (rank 4), [Vision of Death](https://2e.aonprd.com/Spells.aspx?ID=1742), [Translocate](https://2e.aonprd.com/Spells.aspx?ID=1724)
-    - Rank 5: [Illusory Scene](https://2e.aonprd.com/Spells.aspx?ID=1568), [Shadow Blast](https://2e.aonprd.com/Spells.aspx?ID=273), [Sending](https://2e.aonprd.com/Spells.aspx?ID=1665)
-    - Rank 6: [Never Mind](https://2e.aonprd.com/Spells.aspx?ID=1614), [Dominate](https://2e.aonprd.com/Spells.aspx?ID=1501), [Dispel Magic](https://2e.aonprd.com/Spells.aspx?ID=1493)
-    - Rank 7: [Project Image](https://2e.aonprd.com/Spells.aspx?ID=1640), [Contingency](https://2e.aonprd.com/Spells.aspx?ID=1472)
+  - **Vraxeris's Spellbooks** (12 tomes, does not count against budget). Thassilonian illusion specialist — no conjuration or transmutation spells. The real Vraxeris's complete library, more extensive than the simulacrum copies.
+    - Cantrips: Figment, Message, Telekinetic Hand, Prestidigitation, Electric Arc, Light, Daze, Read Aura, Shield
+    - Rank 1: Illusory Object, Enfeeble, Illusory Disguise, Fear, Sure Strike, Force Barrage
+    - Rank 2: Mirror Image, Illusory Object (rank 2), Resist Energy, Invisibility, See the Unseen, Laughing Fit
+    - Rank 3: Gravity Well, Haste, Slow, Enthrall, Blindness, Paralyze
+    - Rank 4: False Vitality, Confusion, Invisibility (rank 4), Vision of Death, Nightmare, Dispel Magic
+    - Rank 5: Vision of Death (rank 5), Dispel Magic (rank 5), Shadow Siphon, Illusory Scene, Sending, Shadow Blast
+    - Rank 6: Illusory Creature (rank 6), Never Mind, Chain Lightning, Dominate, Spellwrack, Repulsion
+    - Rank 7: Project Image, Contingency, Prismatic Spray, Duplicate Foe, Power Word Blind
 
 ### I3 Vraxeris's Body
 
@@ -313,11 +315,11 @@ See `budget.py` for detailed breakdown with item-level slot checks.
 - **Loot:**
   - [Spacious Pouch (Type II)](https://2e.aonprd.com/Equipment.aspx?ID=3032) — replaces bag of holding I. Level 7, 300gp. Count as currency: **150gp**
   - [Staff of Summoning (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=3046) — replaces extend metamagic rod (thematically appropriate for conjuration wing). **Level 10**, 900gp. Count as currency: **450gp**
-  - **Conjurer's Spellbooks** (does not count against budget):
-    - Cantrips: [Telekinetic Hand](https://2e.aonprd.com/Spells.aspx?ID=1715), [Caustic Blast](https://2e.aonprd.com/Spells.aspx?ID=1461), [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=1639), [Light](https://2e.aonprd.com/Spells.aspx?ID=1585)
-    - Rank 1: [Mystic Armor](https://2e.aonprd.com/Spells.aspx?ID=1611), [Force Barrage](https://2e.aonprd.com/Spells.aspx?ID=1536), [Summon Construct](https://2e.aonprd.com/Spells.aspx?ID=318)
-    - Rank 2: [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=1651), [Invisibility](https://2e.aonprd.com/Spells.aspx?ID=1577)
-    - Rank 3: [Haste](https://2e.aonprd.com/Spells.aspx?ID=1553), [Slow](https://2e.aonprd.com/Spells.aspx?ID=1687)
+  - **Conjurer's Spellbooks** (does not count against budget). Dead transmutation wizard's minor spellbooks — prepared spells only.
+    - Cantrips: Telekinetic Hand, Caustic Blast, Prestidigitation, Light
+    - Rank 1: Mystic Armor, Force Barrage, Summon Construct
+    - Rank 2: Resist Energy, Invisibility
+    - Rank 3: Haste, Slow
 
 ### J5 Jordimandus's Throne
 
@@ -332,15 +334,16 @@ See `budget.py` for detailed breakdown with item-level slot checks.
     - 2x [Immovable Rod](https://2e.aonprd.com/Equipment.aspx?ID=259) — **Level 9**, 600gp each = 1,200gp. Count as currency: **600gp**
     - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Teleport](https://2e.aonprd.com/Spells.aspx?ID=1720) (rank 8) — **Level 15** consumable, 1,300gp
     - [Elixir of Life (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2925) — **Level 15** consumable, 1,300gp. *(Replaces scroll of stone to flesh + manual of gainful exercise — stat tomes don't exist in 2e)*
-  - **Jordimandus's Spellbooks** (13 tomes, does not count against budget):
-    - Cantrips: [Caustic Blast](https://2e.aonprd.com/Spells.aspx?ID=1461), [Telekinetic Hand](https://2e.aonprd.com/Spells.aspx?ID=1715), [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=1639), [Light](https://2e.aonprd.com/Spells.aspx?ID=1585), [Figment](https://2e.aonprd.com/Spells.aspx?ID=1528)
-    - Rank 1: [Mystic Armor](https://2e.aonprd.com/Spells.aspx?ID=1611), [Summon Construct](https://2e.aonprd.com/Spells.aspx?ID=318), [Force Barrage](https://2e.aonprd.com/Spells.aspx?ID=1536), [Enfeeble](https://2e.aonprd.com/Spells.aspx?ID=1513)
-    - Rank 2: [Invisibility](https://2e.aonprd.com/Spells.aspx?ID=1577), [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=1651), [See the Unseen](https://2e.aonprd.com/Spells.aspx?ID=1663)
-    - Rank 3: [Haste](https://2e.aonprd.com/Spells.aspx?ID=1553), [Slow](https://2e.aonprd.com/Spells.aspx?ID=1687), [Lightning Bolt](https://2e.aonprd.com/Spells.aspx?ID=1586)
-    - Rank 4: [Translocate](https://2e.aonprd.com/Spells.aspx?ID=1724), [Fly](https://2e.aonprd.com/Spells.aspx?ID=1534), [Mountain Resilience](https://2e.aonprd.com/Spells.aspx?ID=1610)
-    - Rank 5: [Forceful Hand](https://2e.aonprd.com/Spells.aspx?ID=915), [Howling Blizzard](https://2e.aonprd.com/Spells.aspx?ID=1559), [Teleport](https://2e.aonprd.com/Spells.aspx?ID=1720)
-    - Rank 6: [Chain Lightning](https://2e.aonprd.com/Spells.aspx?ID=1462), [Disintegrate](https://2e.aonprd.com/Spells.aspx?ID=1492), [Dispel Magic](https://2e.aonprd.com/Spells.aspx?ID=1493)
-    - Rank 7: [Interplanar Teleport](https://2e.aonprd.com/Spells.aspx?ID=1576), [Contingency](https://2e.aonprd.com/Spells.aspx?ID=1472), [Force Cage](https://2e.aonprd.com/Spells.aspx?ID=690)
+  - **Jordimandus's Spellbooks** (13 tomes, does not count against budget). Thassilonian conjuration specialist — no evocation spells.
+    - Cantrips: Caustic Blast, Tangle Vine, Detect Magic, Telekinetic Hand, Prestidigitation, Light, Figment, Read Aura, Shield
+    - Rank 1: Summon Construct, Grease, Enfeeble, Mystic Armor, Fear, Lock, Summon Fey
+    - Rank 2: False Vitality, See the Unseen, Laughing Fit, Resist Energy, Invisibility, Web, Summon Animal
+    - Rank 3: Aqueous Orb, Haste, Paralyze, Slow, Blindness, Stinking Cloud
+    - Rank 4: Translocate, Enervation, Fly, Dispel Magic, Confusion, Unfettered Movement, Summon Anarch
+    - Rank 5: Blister, Black Tentacles, Impaling Spike, Sending, Teleport, Summon Dragon
+    - Rank 6: Purple Worm Sting, Repulsion, Slow (rank 6), Teleport (rank 6), Spellwrack, Vampiric Exsanguination
+    - Rank 7: Duplicate Foe, Power Word Blind, Summon Entity, Interplanar Teleport, Contingency, Force Cage
+    - Rank 8: Maze, Summon Entity (rank 8), Quandary
 
 ### Level 14 Budget Reconciliation
 
@@ -367,7 +370,11 @@ See `budget.py` for detailed breakdown with item-level slot checks.
   - 6x +1 resilient dawnsilver chain shirt (warriors; replaces +2 mithral chain shirt — downgraded to match 2e economy) — Level 8, 500gp + 1,600gp material each, but at half value: **300gp each = 1,800gp** (capped at reasonable value; treat as 300gp half-value per set for budget)
   - 6x +1 striking greatsword (sinspawn) — Level 4, 100gp each. Half value: **300gp**
   - 6x +1 resilient breastplate (sinspawn; replaces +2 breastplate — downgraded) — Level 8, 500gp each. Half value: **1,500gp**
-  - 6x warrior spellbooks — minor value, does not count against budget
+  - 6x **Warrior of Wrath Spellbooks** — minor value, does not count against budget. Thassilonian evocation specialist — no conjuration or transmutation spells. Small combat spellbooks, prepared spells only.
+    - Cantrips: Light, Electric Arc, Prestidigitation, Ignition, Frostbite
+    - Rank 1: Sure Strike, Breathe Fire
+    - Rank 2: Blazing Bolt, Mirror Image
+    - Rank 3: Haste, Force Barrage (rank 3), Vampiric Feast
 
   - [Potion of Resistance (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=1607) — **Level 14** consumable, 675gp. *(Found in a warrior's kit — fire-resistance, prepared for combat)*
 
@@ -400,16 +407,16 @@ See `budget.py` for detailed breakdown with item-level slot checks.
   - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Howling Blizzard](https://2e.aonprd.com/Spells.aspx?ID=1559) (rank 8) — **Level 15** consumable, 1,300gp
   - [Elixir of Life (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2925) — **Level 15** consumable, 1,300gp. *(From Athroxis's personal stores)*
   - Spell component pouch — 5gp
-  - **Athroxis's Spellbooks** (3 tomes, does not count against budget):
-    - Cantrips: [Caustic Blast](https://2e.aonprd.com/Spells.aspx?ID=1461), [Frostbite](https://2e.aonprd.com/Spells.aspx?ID=1539), [Light](https://2e.aonprd.com/Spells.aspx?ID=1585), [Shield](https://2e.aonprd.com/Spells.aspx?ID=1671), [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=1639)
-    - Rank 1: [Breathe Fire](https://2e.aonprd.com/Spells.aspx?ID=1457), [Force Barrage](https://2e.aonprd.com/Spells.aspx?ID=1536), [Sure Strike](https://2e.aonprd.com/Spells.aspx?ID=1709), [Mystic Armor](https://2e.aonprd.com/Spells.aspx?ID=1611)
-    - Rank 2: [Blazing Bolt](https://2e.aonprd.com/Spells.aspx?ID=1450), [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=1651), [See the Unseen](https://2e.aonprd.com/Spells.aspx?ID=1663)
-    - Rank 3: [Fireball](https://2e.aonprd.com/Spells.aspx?ID=1530), [Lightning Bolt](https://2e.aonprd.com/Spells.aspx?ID=1586), [Haste](https://2e.aonprd.com/Spells.aspx?ID=1553)
-    - Rank 4: [Wall of Fire](https://2e.aonprd.com/Spells.aspx?ID=1748), [Fire Shield](https://2e.aonprd.com/Spells.aspx?ID=1529), [Fly](https://2e.aonprd.com/Spells.aspx?ID=1534)
-    - Rank 5: [Howling Blizzard](https://2e.aonprd.com/Spells.aspx?ID=1559), [Wall of Ice](https://2e.aonprd.com/Spells.aspx?ID=1750), [Forceful Hand](https://2e.aonprd.com/Spells.aspx?ID=915)
-    - Rank 6: [Chain Lightning](https://2e.aonprd.com/Spells.aspx?ID=1462), [Disintegrate](https://2e.aonprd.com/Spells.aspx?ID=1492), [Wall of Force](https://2e.aonprd.com/Spells.aspx?ID=1749)
-    - Rank 7: [Fireball](https://2e.aonprd.com/Spells.aspx?ID=1530) (rank 7), [Prismatic Spray](https://2e.aonprd.com/Spells.aspx?ID=233), [Force Cage](https://2e.aonprd.com/Spells.aspx?ID=690)
-    - Rank 8: [Contingency](https://2e.aonprd.com/Spells.aspx?ID=1472)
+  - **Athroxis's Spellbooks** (3 tomes, does not count against budget). Thassilonian evocation specialist — no conjuration or transmutation spells.
+    - Cantrips: Daze, Light, Frostbite, Read Aura, Detect Magic, Electric Arc, Ignition, Shield, Prestidigitation
+    - Rank 1: Breathe Fire, Sure Strike, Sure Strike, Mystic Armor, Force Barrage, Fear
+    - Rank 2: False Vitality, Mirror Image, See the Unseen, Blazing Bolt, Resist Energy, Dispel Magic
+    - Rank 3: Haste, Lightning Bolt, Vampiric Feast, Fireball, Slow, Force Barrage (rank 3)
+    - Rank 4: Fly, Fireball (rank 4), Force Barrage (rank 4), Fire Shield, Wall of Fire, Confusion
+    - Rank 5: Howling Blizzard, Wall of Ice, Breathe Fire (rank 5), Forceful Hand, Sending, Dispel Magic (rank 5)
+    - Rank 6: Chain Lightning, Petrify, Never Mind, Disintegrate, Wall of Force, Spellwrack
+    - Rank 7: Prismatic Spray, Project Image, Howling Blizzard (rank 7), Contingency, Force Cage, Eclipse Burst
+    - Rank 8: Prismatic Wall, Thunderous Rebuke, Polar Ray
 
 ---
 
