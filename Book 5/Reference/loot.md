@@ -156,7 +156,7 @@ See `budget.py` for detailed breakdown with item-level slot checks.
   - [Staff of Hungry Shadows](../Statblocks/staff_of_hungry_shadows-1608759177.pdf) (custom) — treat as **Level 14** permanent item, 4,500gp
   - 2x [Potion of Resistance (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=1607) — **Level 14** consumable, 675gp each = 1,350gp. *(Void-resistance, thematic for a lich's defenses)*
   - [Cloak of the Bat](https://2e.aonprd.com/Equipment.aspx?ID=425) — replaces bracers of armor +5 (thematic for a necromancer lurking in crypts). **Level 10**, 900gp. Count as currency: **450gp**
-  - Contingency statuette (art object) — 200gp (1e: 2,000gp / 10)
+  - Ivory statuette of Azaven (art object) — 200gp (1e: 2,000gp / 10)
   - Surgical equipment — 120gp (1e: 1,200gp / 10)
 
 ### F11 Azaven's Phylactery

@@ -145,7 +145,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
   - ![Azaven PNG](./Statblocks/azaven-1608759100.png)
   - [Staff of Hungry Shadows PDF](./Statblocks/staff_of_hungry_shadows-1608759177.pdf) by @Primemakes.
   - ![Staff of Hungry Shadows PNG](./Statblocks/staff_of_hungry_shadows-1608759174.png)
-  - **Loot:** [Staff of Hungry Shadows](./Statblocks/staff_of_hungry_shadows-1608759177.pdf) (L14), 2x [Potion of Resistance (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=1607) (L14), [Cloak of the Bat](https://2e.aonprd.com/Equipment.aspx?ID=425) (L10), contingency statuette (200gp), surgical equipment (120gp)
+  - **Loot:** [Staff of Hungry Shadows](./Statblocks/staff_of_hungry_shadows-1608759177.pdf) (L14), 2x [Potion of Resistance (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=1607) (L14), [Cloak of the Bat](https://2e.aonprd.com/Equipment.aspx?ID=425) (L10), ivory statuette of Azaven (200gp), surgical equipment (120gp)
 
 ### F11 Azaven's Phylactery (30/20xp, trivial threat)
   - Necromantic Deathtrap
