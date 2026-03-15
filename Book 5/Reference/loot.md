@@ -360,7 +360,7 @@ See `budget.py` for detailed breakdown with item-level slot checks.
 - **Creatures:** Iron Archer (golem)
 - **Loot:**
   - Golem eye gemstone — 250gp (1e: 2,500gp / 10)
-  - [Truesight Potion](https://2e.aonprd.com/Equipment.aspx?ID=1604) — replaces gem of brightness. **Level 16** consumable, 1,800gp. *(Shimmering liquid distilled from the golem's crystal eye)*
+  - [Phoenix Cinder](https://2e.aonprd.com/Equipment.aspx?ID=1604) — replaces gem of brightness. **Level 16** consumable. *(A glowing ember lodged in the golem's eye socket)*
 
 ### K3 Barracks
 

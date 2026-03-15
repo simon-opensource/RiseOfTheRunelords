@@ -256,7 +256,7 @@ t15 = print_budget(
         ("Ring of Wizardry Type IV", 14, 4000),
     ],
     consumables=[
-        ("Truesight Potion (golem eye)", 16, 1800),
+        ("Phoenix Cinder (golem eye)", 16, 1800),
         ("Scroll Howling Blizzard rank 8 (Athroxis)", 15, 1300),
         ("Elixir of Life Major (Athroxis)", 15, 1300),
         ("Potion of Resistance Greater (K3)", 14, 675),

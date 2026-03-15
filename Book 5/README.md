@@ -267,7 +267,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
  
  ### K1 Iron Guardian (30/20xp, trivial threat)
   - [Iron Archer](https://2e.aonprd.com/Monsters.aspx?ID=242) with a longbow (use melee stats for to hit, wrath arrows)
-  - **Loot:** Golem eye gemstone (250gp), [Truesight Potion](https://2e.aonprd.com/Equipment.aspx?ID=1604) (L16, distilled from the golem's crystal eye)
+  - **Loot:** Golem eye gemstone (250gp), [Phoenix Cinder](https://2e.aonprd.com/Equipment.aspx?ID=1604) (L16, lodged in the golem's eye socket)
 
 ### K3 Barracks (90/60xp, moderate/low threat)
   - The total number of warriors and axemen should equal 50% more than the number of PCs. For a party of 4 that means 6 in total split however you wish.
