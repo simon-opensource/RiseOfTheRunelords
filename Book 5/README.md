@@ -291,7 +291,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
   - [Highlady Athroxis PDF](./Statblocks/highlady_athroxis-1608761466.pdf) (60/80xp) by @Primemakes.
   - ![Highlady Athroxis PNG](./Statblocks/highlady_athroxis-1608761464.png)
   - [Glabrezu](https://2e.aonprd.com/Monsters.aspx?ID=101) (20/30xp)
-  - **Loot:** +3 greater striking [flaming](https://2e.aonprd.com/Equipment.aspx?ID=2838) adamantine ranseur (L16), +2 greater resilient dawnsilver breastplate (L15), [Wand of Crackling Lightning](https://2e.aonprd.com/Equipment.aspx?ID=3424) 5th-rank (L14), [Ring of Wizardry Type IV](https://2e.aonprd.com/Equipment.aspx?ID=462) (L14), [Scroll of Howling Blizzard rank 8](https://2e.aonprd.com/Equipment.aspx?ID=2962) (L15), [Elixir of Life (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2925) (L15), Athroxis's spellbooks (3 tomes — see [loot.md](./Reference/loot.md))
+  - **Loot:** +3 greater striking [flaming](https://2e.aonprd.com/Equipment.aspx?ID=2838) adamantine ranseur (L16), +2 greater resilient dawnsilver breastplate (L15), [Wand of Crackling Lightning](https://2e.aonprd.com/Equipment.aspx?ID=3424) 6th-rank (L14), [Ring of Wizardry Type IV](https://2e.aonprd.com/Equipment.aspx?ID=462) (L14), [Scroll of Howling Blizzard rank 8](https://2e.aonprd.com/Equipment.aspx?ID=2962) (L15), [Elixir of Life (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2925) (L15), Athroxis's spellbook (see [loot.md](./Reference/loot.md))
 
 
  ## Part 10: Weapons of Power (Party Level 14/15, 80/60 xp)

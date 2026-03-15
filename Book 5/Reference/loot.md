@@ -402,12 +402,12 @@ See `budget.py` for detailed breakdown with item-level slot checks.
 - **Loot:**
   - +3 greater striking [flaming](https://2e.aonprd.com/Equipment.aspx?ID=295) adamantine ranseur (standard-grade; replaces +3 flaming adamantine ranseur) — **Level 16** permanent item: 10,000gp (weapon) + 500gp (flaming) + 1,400gp (adamantine) = 11,900gp
   - +2 greater resilient dawnsilver breastplate (standard-grade; replaces +4 mithral breastplate) — **Level 14**: 4,500gp (armor) + 1,600gp (dawnsilver) = 6,100gp. Treat as **Level 15** permanent item
-  - [Wand of Crackling Lightning](https://2e.aonprd.com/Equipment.aspx?ID=3424) (5th-rank; replaces wand of lightning bolt CL10 25ch) — **Level 14**, 4,500gp. Treat as **Level 15** permanent item
+  - [Wand of Crackling Lightning](https://2e.aonprd.com/Equipment.aspx?ID=3424) (6th-rank; replaces wand of lightning bolt CL10 25ch) — **Level 14**, 4,500gp. Treat as **Level 15** permanent item
   - [Ring of Wizardry (Type IV)](https://2e.aonprd.com/Equipment.aspx?ID=462) — replaces headband vast int +2 + ring of protection +2 (combined into one powerful item). **Level 14** extra permanent, 4,000gp
   - [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Howling Blizzard](https://2e.aonprd.com/Spells.aspx?ID=1559) (rank 8) — **Level 15** consumable, 1,300gp
   - [Elixir of Life (Major)](https://2e.aonprd.com/Equipment.aspx?ID=2925) — **Level 15** consumable, 1,300gp. *(From Athroxis's personal stores)*
   - Spell component pouch — 5gp
-  - **Athroxis's Spellbooks** (3 tomes, does not count against budget). Thassilonian evocation specialist — no conjuration or transmutation spells.
+  - **Athroxis's Spellbook** (carried into combat, does not count against budget). Thassilonian evocation specialist — no conjuration or transmutation spells.
     - Cantrips: Daze, Light, Frostbite, Read Aura, Detect Magic, Electric Arc, Ignition, Shield, Prestidigitation
     - Rank 1: Breathe Fire, Sure Strike, Sure Strike, Mystic Armor, Force Barrage, Fear
     - Rank 2: False Vitality, Mirror Image, See the Unseen, Blazing Bolt, Resist Energy, Dispel Magic

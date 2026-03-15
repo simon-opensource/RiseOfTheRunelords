@@ -250,7 +250,7 @@ t15 = print_budget(
     permanents=[
         ("+3 GS flaming adamantine ranseur (Athroxis)", 16, 11900),
         ("+2 GR dawnsilver breastplate (Athroxis)", 15, 6100),
-        ("Wand of Crackling Lightning 5th-rank", 15, 4500),
+        ("Wand of Crackling Lightning 6th-rank (Athroxis)", 14, 4500),
     ],
     extra_permanents=[
         ("Ring of Wizardry Type IV", 14, 4000),
