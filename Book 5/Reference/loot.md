@@ -342,8 +342,8 @@ See `budget.py` for detailed breakdown with item-level slot checks.
     - Rank 4: Translocate, Enervation, Fly, Dispel Magic, Confusion, Unfettered Movement, Summon Anarch
     - Rank 5: Blister, Black Tentacles, Impaling Spike, Sending, Teleport, Summon Dragon
     - Rank 6: Purple Worm Sting, Repulsion, Slow (rank 6), Teleport (rank 6), Spellwrack, Vampiric Exsanguination
-    - Rank 7: Duplicate Foe, Power Word Blind, Summon Entity, Interplanar Teleport, Contingency, Force Cage
-    - Rank 8: Maze, Summon Entity (rank 8), Quandary
+    - Rank 7: Duplicate Foe, Power Word Blind, Summon Entity, Interplanar Teleport, Contingency, Lifewood Cage
+    - Rank 8: Quandary, Summon Entity (rank 8)
 
 ### Level 14 Budget Reconciliation
 
@@ -415,7 +415,7 @@ See `budget.py` for detailed breakdown with item-level slot checks.
     - Rank 4: Fly, Fireball (rank 4), Force Barrage (rank 4), Fire Shield, Wall of Fire, Confusion
     - Rank 5: Howling Blizzard, Wall of Ice, Breathe Fire (rank 5), Forceful Hand, Sending, Dispel Magic (rank 5)
     - Rank 6: Chain Lightning, Petrify, Never Mind, Disintegrate, Wall of Force, Spellwrack
-    - Rank 7: Prismatic Spray, Project Image, Howling Blizzard (rank 7), Contingency, Force Cage, Eclipse Burst
+    - Rank 7: Prismatic Spray, Project Image, Howling Blizzard (rank 7), Contingency, Lifewood Cage, Eclipse Burst
     - Rank 8: Prismatic Wall, Thunderous Rebuke, Polar Ray
 
 ---
