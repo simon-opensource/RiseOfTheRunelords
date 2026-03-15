@@ -228,7 +228,7 @@ Budget is for 5 PCs. Detailed treasure allocation with item links is in [Referen
   - **Loot:** Golden peacock idol (80gp), Thassilonian books on illusion (150gp), [Robe of the Archmagi](https://2e.aonprd.com/Equipment.aspx?ID=464) (black, L15, 6,500gp — on Vraxeris's body), [Ring of Wizardry Type III](https://2e.aonprd.com/Equipment.aspx?ID=462) (L12), [Charlatan's Cape](https://2e.aonprd.com/Equipment.aspx?ID=3063) (L10), [Potion of Flying (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=1596) (L15), Vraxeris's spellbooks (12 tomes — see [loot.md](./Reference/loot.md)), Vraxeris's journal (quest item)
 
 ### I4 Library
-  - **Loot:** [Hat of Disguise (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=442) (L7), Thassilonian books (150gp)
+  - **Loot:** [Masquerade Scarf (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=442) (L7) — found amid the rubble (Perception DC 30)
 
 ### I6 Bedroom (80/60xp, moderate/low threat)
   - For False Delvahines use double weak Level 12 Delvahine (see above) and remove the 7th level spells and the magical lash.

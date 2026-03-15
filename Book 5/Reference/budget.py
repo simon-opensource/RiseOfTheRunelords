@@ -226,7 +226,7 @@ t14 = print_budget(
         ("Illusion books I3", 150),
         ("Ring of Wizardry III (half)", 1000),
         ("Charlatan's Cape (half)", 400),
-        ("Hat of Disguise Greater (half)", 100),
+        ("Masquerade Scarf Greater (half)", 100),
         # Part 8: Festering Maze
         ("Spacious Pouch J3 (half)", 150),
         ("Staff of Summoning Greater (half)", 450),

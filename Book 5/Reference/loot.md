@@ -303,7 +303,7 @@ See `budget.py` for detailed breakdown with item-level slot checks.
 
 - **Creatures:** None
 - **Loot:**
-  - [Hat of Disguise (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=442) — replaces tome of leadership +2 (stat tomes don't exist in 2e). **Level 7**, 340gp. Count as currency: **100gp**
+  - [Masquerade Scarf (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=442) — replaces tome of leadership +2 (stat tomes don't exist in 2e). **Level 7**, 340gp. Count as currency: **100gp**
 
 ---
 
